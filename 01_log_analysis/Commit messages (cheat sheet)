@@ -1,0 +1,17 @@
+chore: replace auto README with portfolio overview
+
+feat: add 00_linux_training_log scaffold
+
+feat: add 01_log_analysis scaffold
+
+feat: add 02_incident_response scaffold
+
+feat: add 03_network_monitoring scaffold
+
+feat: add 04_automation_tools scaffold
+
+feat(linux-log): add Days 01–55 daily practice
+
+docs: link Linux Training Log from main README
+
+feat(log-analysis): add starter command reference
