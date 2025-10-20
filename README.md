@@ -1,3 +1,4 @@
+1. **[00 – Linux Training Log](./00_linux_training_log/)** — 50+ days of daily Linux practice.\
 # Cybersecurity-Portfolio
 Hands-on cybersecurity projects: Linux log analysis, incident response, basic network monitoring, and automation. Built after completing the Google Cybersecurity Professional Certificate.
 # 🧠 Cybersecurity Portfolio
