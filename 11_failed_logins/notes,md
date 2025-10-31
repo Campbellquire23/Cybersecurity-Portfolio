@@ -1,0 +1,5 @@
+### Day 67 – Failed Login Scanner
+- Searched system auth logs for failed password attempts.
+- Used `grep` with case-insensitive matching.
+- Counted occurrences for basic intrusion detection.
+- Highlights brute-force attack patterns.
