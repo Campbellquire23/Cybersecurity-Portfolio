@@ -1,0 +1,60 @@
+# Security+ Study — Day 3 ✅  
+**Date:** Feb 18, 2025  
+**Videos Completed:** 1.2 – 1.3  
+**Resources:** Professor Messer — SY0-701 Video Course  
+
+---
+
+## 🧱 Video 1.2 — Zero Trust Architecture
+
+### 🔹 Core Concept
+- Zero Trust means **never trust, always verify** — every user, device, and system must authenticate and be authorized for *every action*, even inside the network.
+- The assumption: every network is hostile, and breaches are inevitable.
+- Applies across on-prem, virtual, and cloud environments.
+
+### 🔹 Planes of Operation
+- **Data Plane:** Handles traffic, encryption, NAT, and security processing.  
+- **Control Plane:** Manages network routing decisions, NAT tables, and firewall rules.  
+- **Management Plane:** Defines security policy, access, and administration.
+
+### 🔹 Identity & Access
+- **Adaptive Authentication:** Adjusts access control based on user behavior and context (IP, device, location, etc.).  
+- **Intent-based Access:** Examines data points like device health, user role, or location before allowing access.  
+- **Policy-driven decisions:** Uses multiple factors to determine authentication and authorization needs.
+
+### 🔹 Security Zones
+- Segregates the network into **trust boundaries** for better control.
+- **Policy Enforcement Point (PEP):** Validates and monitors traffic or user actions.
+- **Policy Decision Point (PDP):** Evaluates PEP data and decides whether to allow/deny access.
+
+---
+
+## 🧱 Video 1.3 — Physical Security & Deception Tools
+
+### 🔹 Physical Security Controls
+- **Access Control Vestibules (Mantraps):** One-door-at-a-time entry to prevent tailgating.  
+- **Badge & Keycard Systems:** Require authentication to access secure areas.  
+- **Cameras & Motion Sensors:** Infrared, ultrasonic, microwave, and photoelectric detection.
+
+### 🔹 Deception & Detection
+- **Honeypots:** Fake systems designed to attract attackers and log intrusion behavior.  
+- **Honeynets:** Networks of honeypots for advanced analysis.  
+- **Honeyfiles:** Fake files (e.g., passwords.txt) containing traceable data to detect theft.  
+- **Honeytokens:** Fake data records or credentials to track leaks.  
+- Example: a fake “database credentials” file sends an alert if accessed.
+
+### 🔹 Purpose
+- Helps analysts study attacker methods.  
+- Identifies compromised accounts or insider threats.  
+- Strengthens intrusion detection systems by analyzing attack patterns.
+
+---
+
+## 📚 Study Summary
+✔️ Completed: Domain 1 topics — Zero Trust, Physical Security, and Deception  
+✔️ Added new concepts to threat identification knowledge base  
+✔️ Next Up: **Video 1.4 — Authentication Factors & Access Models**
+
+---
+
+**Commit Message:**
