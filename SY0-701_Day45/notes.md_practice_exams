@@ -1,0 +1,73 @@
+Security Controls & Architecture
+
+Input validation: Prevents malicious input (XSS, injection) before processing
+
+Sideloading: Installing apps outside official stores (security risk)
+
+NAC (Network Access Control):
+
+Enforces device compliance before network access
+
+Can restrict or quarantine non-compliant devices
+
+Application Allow List:
+
+Only approved applications may run
+
+Strong defense against malware
+
+🧠 Monitoring & Detection
+
+EDR (Endpoint Detection & Response):
+
+Monitors endpoints (PCs, phones, servers)
+
+Detects malware, ransomware, suspicious behavior
+
+IDS:
+
+Network-based monitoring
+
+Detects suspicious traffic but does NOT block
+
+☁️ Modern Network Security
+
+SASE (Secure Access Service Edge):
+
+Cloud-based
+
+Combines networking + security
+
+Ideal for remote/hybrid workers
+
+Secures access to cloud apps and data centers
+
+🧪 Testing & Environment Knowledge
+
+Partially Known Environment (Gray Box Test):
+
+Tester has limited knowledge (IP ranges, OS, etc.)
+
+Focuses testing effort efficiently
+
+Jump Server:
+
+Acts as a controlled gateway
+
+Prevents direct access to internal resources
+
+🛡️ Business Continuity
+
+Cold Site:
+
+No live infrastructure
+
+Longest recovery time
+
+Lowest cost
+
+Compensating Controls:
+
+Used when primary controls aren’t feasible
+
+Example: firewall + service hardening for legacy systems
