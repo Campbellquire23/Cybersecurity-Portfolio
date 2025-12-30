@@ -1,0 +1,72 @@
+46 – Practice Exam Review Summary (for GitHub)
+📘 CompTIA Security+ – Practice Exam Review (Day 3)
+
+Today focused on practice exam questions, identifying weak areas, and writing definitions for missed concepts. The emphasis shifted from content consumption to exam readiness and knowledge reinforcement.
+
+🔐 Key Concepts Reviewed
+
+Authentication & Access Control
+
+3FA (Three-Factor Authentication):
+
+Something you know (password)
+
+Something you have (token/smart card)
+
+Something you are (biometrics)
+
+802.1X: Network access control using EAP between supplicant, authenticator, and authentication server
+
+Prevents unauthorized devices from accessing LAN/WLAN
+
+Network & Infrastructure Resilience
+
+Load Balancing: Distributes traffic across multiple servers to improve performance, availability, and fault tolerance
+
+RAID: Combines multiple physical disks into one logical unit for redundancy, reliability, and performance
+
+Jump Servers: Intermediate systems used to securely access internal resources
+
+Threats & Attacks
+
+Brute Force Attacks: Repeated attempts to guess passwords or encryption keys
+
+Buffer Overflow: Exploiting excess data written to memory buffers
+
+On-Path (MITM) Attacks: Intercepting or modifying traffic between two endpoints
+
+Endpoint & Network Security
+
+EDR: Monitors endpoints to detect and respond to malicious activity
+
+IDS: Monitors traffic patterns and detects anomalies
+
+SASE: Cloud-based framework combining networking and security services
+
+Application & Software Security
+
+Input Validation: Prevents injection attacks by sanitizing user input
+
+Application Allow Lists: Only approved applications are allowed to run
+
+Firmware: Embedded software in hardware devices; outdated firmware can introduce vulnerabilities
+
+Code Signing: Verifies software authenticity and integrity
+
+Risk Mitigation
+
+Compensating Controls: Alternative controls used when primary controls aren’t feasible
+
+Cold Sites: Backup data centers without active hardware; longest recovery time
+
+🧠 Learning Outcome
+
+Practice exams revealed gaps in application-level understanding, not lack of effort. Reviewing incorrect answers and writing definitions is strengthening long-term retention and exam performance.
+
+📌 Total Progress:
+
+121 Professor Messer videos completed
+
+~100+ pages of handwritten notes
+
+Now transitioning into exam-mode learning
