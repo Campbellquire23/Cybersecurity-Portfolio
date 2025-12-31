@@ -1,0 +1,47 @@
+ompTIA Security+ Practice Exams
+
+(Day 5 of Practice Exams | Overall Day 48)
+
+🔑 Topics Reviewed & Reinforced
+
+Data Loss Prevention (DLP): Prevents unauthorized exfiltration of sensitive data through identification, monitoring, and enforcement
+
+Geofencing: Location-based access control using geographic boundaries
+
+OpenSSL: Software library supporting cryptographic functions and SSL/TLS
+
+ARP Poisoning: Attack using forged ARP messages to intercept traffic between devices
+
+Sandboxing: Isolates applications to limit permissions and reduce impact of compromise
+
+CSIRT: Incident response team responsible for handling and coordinating security incidents
+
+Non-PII: Data that does not directly identify individuals but may pose privacy risk if combined
+
+WPA2 / WPA3: Wireless security protocols using strong encryption and authentication
+
+RADIUS: Centralized authentication, authorization, and accounting service
+
+Tor (Onion Routing): Anonymizes traffic through layered encryption and relays
+
+SSL/TLS: Encrypts communication to prevent interception and credential theft
+
+Thin Clients: Minimal local hardware relying on centralized servers
+
+Corrective Controls: Restore systems after an incident
+
+SQL Injection: Exploits improperly sanitized inputs to bypass authentication
+
+Information Exposure Prevention: Reduces leakage via error messages or interfaces
+
+Verbose Error Messages: Risky disclosures that reveal system internals
+
+🎯 Key Takeaways
+
+Continued identification of CompTIA wording traps
+
+Improved understanding of preventive vs corrective controls
+
+Reinforced network security, encryption, and incident response concepts
+
+Practice exams highlighting context-based decision making, not memorization
