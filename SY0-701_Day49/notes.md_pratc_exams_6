@@ -1,0 +1,68 @@
+Day 49 – CompTIA Security+
+
+Practice Exams & Targeted Review (Day 6 of Practice Phase)
+
+🔍 Focus of the Day
+
+Continued practice exam review
+
+Writing definitions for missed or misunderstood concepts
+
+Reinforcing application-based security scenarios
+
+Transitioning fully from content consumption → exam performance mode
+
+🧠 Key Concepts Reviewed & Learned
+🔐 Application & Network Security
+
+Input Sanitization – Prevents attackers from injecting malicious input (SQLi, XSS) by validating and filtering user data.
+
+Web Application Firewall (WAF) – Inspects and filters HTTP/S traffic to protect web apps from attacks like SQL injection, XSS, and DoS.
+
+Directory Traversal – Attack that exploits improper input validation to access files outside the intended directory using ../ patterns.
+
+Privilege Escalation – Exploiting flaws to gain higher-level permissions than authorized.
+
+ARP Poisoning – Attacker sends fake ARP messages to associate their MAC address with another device’s IP to intercept traffic.
+
+On-Path (Man-in-the-Middle) Attack – Intercepts or modifies traffic between two communicating parties.
+
+☁️ Infrastructure, Availability & Resilience
+
+Load Balancer – Distributes traffic across servers to improve availability, performance, and fault tolerance.
+
+Server Farm – Group of servers providing the same service to support redundancy and scalability.
+
+MTTR (Mean Time to Repair) – Average time required to restore failed equipment or services.
+
+UPS (Uninterruptible Power Supply) – Provides short-term power and enables graceful shutdown during outages.
+
+Tabletop Exercise – Discussion-based disaster recovery test without disrupting operations.
+
+Business Impact Analysis (BIA) – Identifies critical business functions and the impact of disruptions.
+
+🔑 Authentication, Encryption & Access Control
+
+Digital Certificates – Provide authentication, encryption, and non-repudiation.
+
+Wildcard Certificates – Secure multiple subdomains under one certificate.
+
+SSL/TLS – Encrypts data in transit to prevent credential theft and tampering.
+
+RADIUS – Centralized authentication for network access (often used with 802.1X).
+
+Tor Network – Routes traffic through encrypted relays to anonymize communication.
+
+Thin Clients – Minimal devices that rely on centralized servers, reducing attack surface.
+
+🧯 Incident Response & Governance
+
+CERT / CSIRT – Incident response teams responsible for handling security incidents and enforcing response plans.
+
+Communications Plan – Defines how information is shared internally and externally during incidents.
+
+Shadow IT – Use of unauthorized apps or devices by employees, increasing security risk.
+
+Surveillance Systems – High-risk targets due to internet exposure and default configurations.
+
+Internet Bots – Automated scripts that can be benign or malicious.
