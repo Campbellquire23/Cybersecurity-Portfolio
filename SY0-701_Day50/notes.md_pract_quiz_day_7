@@ -1,0 +1,61 @@
+
+
+Day 50 – CompTIA Security+
+
+Practice Exams, Mistakes, and Targeted Concept Review (Day 7)
+
+🎯 Focus of the Day
+
+Continued practice exam attempts
+
+Writing definitions for missed questions
+
+Reinforcing cloud security, availability, governance, and social engineering
+
+Transitioning deeper into scenario-based reasoning
+
+🧠 Concepts Reviewed & Reinforced
+☁️ Cloud & Data Security
+
+CASB (Cloud Access Security Broker)
+Acts as an intermediary between users and cloud service providers to enforce security policies. CASBs provide visibility, data protection, authentication, authorization, logging, auditing, and threat detection for cloud resources.
+
+Tokenization
+Replaces sensitive data with non-sensitive tokens that have no intrinsic value. Helps prevent data leakage by ensuring original data is only accessible to authorized systems.
+
+SOC 2 Report
+An independent assessment of a service provider’s controls based on Trust Services Criteria such as security, availability, processing integrity, confidentiality, and privacy. Used to evaluate vendor security posture.
+
+🌍 Authentication, VPNs & Access Controls
+
+Impossible Travel Time
+A security policy that detects and blocks logins from geographically impossible locations within an unrealistic time window.
+
+Site-to-Site VPN
+Securely connects two or more networks over the internet. Best for linking office locations and supporting multiple users without requiring individual VPN clients.
+
+⚙️ Availability, Redundancy & Reliability
+
+Single Point of Failure (SPOF)
+A component whose failure causes the entire system to stop functioning, creating high risk to availability and business continuity.
+
+High Availability (HA) Pair
+Two identical systems operating in parallel to provide redundancy and failover, eliminating single points of failure.
+
+🎭 Social Engineering & Human Factors
+
+Whaling
+A targeted phishing attack aimed at high-profile individuals such as executives to steal sensitive information or gain privileged access.
+
+Threat Feeds / Threat Intelligence
+Sources that provide real-time or near-real-time information about threats, vulnerabilities, indicators of compromise (IOCs), and malicious activity. Used to improve detection and response.
+
+🏢 Device & Endpoint Governance
+
+CYOD (Choose Your Own Device)
+Deployment model where employees select from a pre-approved list of devices, balancing user flexibility with organizational security control.
+
+🔐 Physical Security
+
+Lighting and Fences
+Physical security countermeasures designed to deter unauthorized access to facilities and protected assets.
