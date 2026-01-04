@@ -1,0 +1,75 @@
+
+
+Day 51 – CompTIA Security+
+
+Practice Exams, Definitions, and Missed Concept Review (Day 8)
+
+🎯 Focus of the Day
+
+Continued practice exam attempts
+
+Writing definitions for missed or weak concepts
+
+Deepening understanding of exploitation, PKI, certificates, and scanning tools
+
+Reinforcing how attacks actually work, not just labels
+
+🧠 Concepts Reviewed & Clarified
+🧨 Exploitation & Attacks
+
+Buffer Overflow
+A vulnerability that occurs when an application receives more data than a buffer can handle, causing excess data to overwrite adjacent memory locations (such as registers). This can allow attackers to alter execution flow and run arbitrary code on the target system.
+
+🔐 PKI, Certificates & Encryption
+
+PKI Certificates
+Digital certificates used to verify the identity and authenticity of a server or entity. PKI certificates enable secure communication and are commonly used to secure web applications via HTTPS.
+
+HTTPS
+A secure version of HTTP that encrypts data transmitted over the internet using SSL/TLS, protecting against interception and tampering.
+
+Certificate Validity Period
+The time window during which a certificate is considered valid and trusted. Determined by the issuing Certificate Authority (CA), typically ranging from 1–3 years. Validity can be verified by checking the “valid from” and “valid to” dates.
+
+Domain Name in PKI Certificates
+Specifies the website or web application the certificate is issued for. Can be:
+
+A specific domain (e.g., app.comptia.org)
+
+A wildcard domain (e.g., *.comptia.org)
+Wildcard certificates secure multiple subdomains such as payment.comptia.org and contact.comptia.org.
+
+🧪 Network Scanning & Enumeration
+
+Nmap (Network Mapper)
+A tool used to scan IP addresses and ports to discover hosts, open ports, services, and applications running on a system. Nmap helps administrators and security professionals:
+
+Identify running services
+
+Detect OS and service versions
+
+Perform script scans
+
+Conduct vulnerability scanning
+
+Map firewall rules and exposure
+
+📉 Practice Exam Takeaways
+
+Mistakes today are mostly related to:
+
+How exploits work internally
+
+Certificate details and use cases
+
+Tool selection (what Nmap does vs other scanners)
+
+Writing definitions after missing questions is reinforcing:
+
+Attack mechanics
+
+Trust relationships
+
+Real-world usage scenarios
+
+This is exactly what converts wrong answers into correct instincts.
