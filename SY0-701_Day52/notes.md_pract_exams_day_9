@@ -1,0 +1,73 @@
+Day 52 – Practice Exams (Day 9) — Summary
+
+Focus: Reviewing missed practice exam questions, reinforcing definitions, and identifying weak domains through repetition.
+
+Key Concepts Reviewed
+
+Authentication & Access Control
+
+Kerberos: Secure network authentication protocol using tickets and a trusted third party; prevents plaintext password transmission.
+
+RADIUS: Centralized authentication, authorization, and accounting (AAA) commonly used for network access control.
+
+PEAP (Protected EAP): Secure authentication protocol for wireless networks that encapsulates EAP within a TLS tunnel.
+
+Privileged Access Management (PAM): Controls and limits elevated permissions, often using just-in-time access.
+
+Vulnerabilities & Attacks
+
+Privilege Escalation: Exploiting a vulnerability to gain higher access rights than originally authorized.
+
+Buffer Overflow: Occurs when excess data overwrites memory locations, potentially allowing arbitrary code execution.
+
+Directory Traversal: Accessing files outside the intended directory using paths like ../.
+
+On-Path (Man-in-the-Middle) Attack: Intercepting or altering communications between two parties.
+
+Brute Force Attack: Repeated login attempts using many password combinations.
+
+Logic Bomb: Malicious code that executes when specific conditions are met.
+
+Network & Infrastructure Security
+
+Containers: Lightweight virtualization running isolated applications on a shared host OS.
+
+Load Balancing: Distributes traffic across multiple systems to improve availability and fault tolerance.
+
+High Availability (HA): Reduces downtime by eliminating single points of failure.
+
+UPS: Provides temporary power and enables graceful shutdowns during outages.
+
+Jump Server (Bastion Host): Controlled intermediary system used to access internal resources securely.
+
+Cryptography & Certificates
+
+PKI Certificates: Used to verify identity and secure communications (e.g., HTTPS).
+
+Certificate Validity Period: Time window when a certificate is trusted.
+
+Wildcard Certificates: Secure multiple subdomains under one domain.
+
+SSL/TLS: Encrypts data in transit between clients and servers.
+
+Monitoring, Detection & Response
+
+SIEM: Aggregates logs and detects threats using correlation and intelligence feeds.
+
+IDS vs IPS: IDS detects suspicious activity; IPS actively blocks it.
+
+NIST 800-53: Framework defining security and privacy controls for federal systems.
+
+SOC 2 Report: Independent assessment of a vendor’s security controls.
+
+Incident Response Team (CSIRT): Handles detection, containment, eradication, and recovery of incidents.
+
+Cloud & Data Protection
+
+CASB: Enforces security policies between users and cloud providers.
+
+DLP: Prevents unauthorized data exfiltration.
+
+Tokenization: Replaces sensitive data with non-sensitive tokens.
+
+Sandboxing: Isolates applications to limit potential damage.
