@@ -1,0 +1,78 @@
+Day 53 – CompTIA Security+
+
+Practice Quizzes, Definitions, and Missed Concept Review (Day 10)
+
+🎯 Focus of the Day
+
+Continued practice quiz attempts
+
+Writing definitions for missed or weak topics
+
+Reinforcing enterprise security controls, identity, encryption, and cloud security
+
+Shifting from memorization → recognition and reasoning
+
+🧠 Concepts Reviewed & Clarified
+📱 Mobile & Endpoint Security
+
+Posture Checking
+A process that evaluates a mobile device’s security posture (OS version, patch level, encryption status, etc.) before allowing access to corporate resources.
+
+Remote Wipe
+A mobile device management (MDM) feature that allows administrators to erase all data from a device remotely if it is lost or stolen, preventing unauthorized access to corporate data.
+
+Least Privilege
+A security principle that ensures users are granted only the minimum permissions necessary to perform their job functions, reducing the risk of malware installation or misuse.
+
+🔐 Data Protection & Access Control
+
+Wildcard Certificates
+Certificates that secure multiple subdomains using a single certificate (e.g., *.example.com), simplifying certificate management and reducing administrative overhead.
+
+DLP (Data Loss Prevention)
+A set of tools and processes designed to prevent unauthorized access, use, or transfer of sensitive data. DLP helps reduce data exfiltration risks by monitoring and controlling data flows across endpoints, networks, and cloud services.
+
+Disabling Autorun/Autoplay
+A security hardening step that prevents malicious files from executing automatically when removable storage devices are connected.
+
+🔑 Identity, Authentication & Federation
+
+Federation
+An access management concept that allows users to authenticate once and access multiple applications or services using the same identity provider.
+
+Open Authentication (OAuth)
+A standard protocol that enables federation by allowing users to use existing credentials from one service to access another service securely without sharing passwords.
+
+AUP (Acceptable Use Policy)
+A document that defines rules and guidelines for acceptable usage of a company’s IT resources by users.
+
+PAM (Privileged Access Management)
+A security solution that protects privileged accounts by monitoring, detecting, and preventing unauthorized access to critical systems. PAM systems often support credential checkout/check-in, automated password rotation, and access logging.
+
+📧 Email, Standards & Encryption
+
+S/MIME (Secure/Multipurpose Internet Mail Extensions)
+An email security protocol that enables encryption and digital signatures to ensure confidentiality, integrity, and sender authenticity. Compatible with protocols such as POP and IMAP.
+
+ISO/IEC 27001
+An international standard that defines requirements for an Information Security Management System (ISMS). It provides a framework for managing and protecting sensitive information through risk management and auditing processes.
+
+🖥️ Endpoint, Cloud & Infrastructure Security
+
+EDR (Endpoint Detection and Response)
+A security solution that detects malware and suspicious activity on endpoints, including removable media. EDR alerts security teams and enables rapid containment and remediation.
+
+Password Hashing
+A one-way cryptographic function used to store user credentials securely. Password hashes cannot be reversed, protecting passwords even if credential databases are compromised.
+
+IaaS (Infrastructure as a Service)
+A cloud computing model where providers offer infrastructure components such as virtual machines, storage, and networking. Organizations gain flexibility and scalability without managing physical hardware.
+
+Continuous Validation
+An ongoing security process involving regular and automated testing (such as vulnerability scans) to ensure systems remain secure and functional over time.
+
+🧩 Core Security Principle
+
+Integrity
+A security concept ensuring that data remains accurate, complete, and unaltered without authorization. Integrity is critical for systems such as e-commerce platforms to prevent unauthorized changes or errors.
+
