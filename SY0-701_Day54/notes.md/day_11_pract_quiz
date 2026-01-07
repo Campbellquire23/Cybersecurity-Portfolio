@@ -1,0 +1,51 @@
+✅ Day 54 – CompTIA Security+
+
+Practice Exams – Day 11
+Summary for GitHub Upload
+
+🔐 Core Topics Covered
+Authentication, Encryption & Trust
+
+SSL/TLS: Encrypts data in transit, ensures confidentiality, integrity, and authentication.
+
+PKI & Certificates: Digital certificates verify identity; validity periods define trust windows.
+
+DNS Poisoning / Spoofing: Redirects traffic by corrupting DNS cache records.
+
+Credential Stuffing: Uses leaked credentials across multiple services exploiting password reuse.
+
+Access Control & Privileges
+
+Privilege Creep: Gradual accumulation of excess permissions increases attack surface.
+
+Least Privilege: Restricts users to minimum permissions required.
+
+Privileged Access Management (PAM): Controls, monitors, and rotates privileged credentials.
+
+chmod (Linux): Modifies file/directory permissions to reduce unauthorized access.
+
+SetUID Bit: Can elevate execution privileges — risky if misconfigured.
+
+Security Operations & Teams
+
+Purple Team: Combines Red Team (attack) and Blue Team (defense) for continuous improvement.
+
+Secure Configuration Guides: Standardized best practices to reduce vulnerabilities.
+
+CVSS: Quantifies vulnerability severity (0–10) based on exploitability and impact.
+
+Data Protection
+
+Full Disk Encryption (FDE): Protects data at rest even if device is lost or stolen.
+
+Integrity: Ensures data is accurate, unaltered, and trustworthy.
+
+Password Hashing: One-way function protecting stored credentials.
+
+Wireless & Network Attacks
+
+Evil Twin Attack: Rogue access point mimicking legitimate SSID to intercept traffic.
+
+DNS Cache Poisoning: Injects false DNS records to redirect users.
+
+ARP/DNS Exploits: Facilitate man-in-the-middle attacks.
