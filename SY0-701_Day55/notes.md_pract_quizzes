@@ -1,0 +1,88 @@
+CompTIA Security+ – Practice Exam Marathon
+
+Day 55 (Overall)
+Full Practice Quiz Review – No Notes Day
+
+🎯 Focus of the Day
+
+Completed 30 practice quiz sections (≈150 questions total)
+
+Prioritized exposure, pattern recognition, and endurance
+
+Focused on identifying:
+
+Repeated question styles
+
+Common distractor answers
+
+How CompTIA frames scenarios
+
+No handwritten notes were taken today by design.
+
+
+Key Concepts Reinforced (Recurring Themes)
+🔐 Authentication & Access Control
+
+Least Privilege vs Privilege Creep
+
+Privileged Access Management (PAM)
+Controls, monitors, and rotates privileged credentials
+
+Credential Stuffing
+Uses leaked credentials across multiple services due to password reuse
+
+Federation / SSO / OAuth / OpenID Connect
+Authenticate once, access multiple services
+
+🧨 Common Attacks & Threats
+
+Evil Twin (Wireless)
+Fake AP with same SSID to intercept traffic
+
+DNS Poisoning / Spoofing
+Redirects traffic by corrupting DNS cache
+
+Man-in-the-Middle (MITM)
+Often enabled by ARP/DNS attacks or rogue wireless APs
+
+Privilege Escalation
+Exploiting vulnerabilities to gain higher access rights
+
+Buffer Overflow
+Overwriting memory to execute arbitrary code
+
+🧱 Defensive Controls & Security Architecture
+
+SSL/TLS – Encrypts data in transit
+
+PKI & Certificates – Establish trust and identity
+
+WAF – Protects web apps from SQLi, XSS, etc.
+
+NGFW – Deep packet inspection + application awareness
+
+EDR / XDR – Endpoint detection and response
+
+SIEM – Correlates logs and security events
+
+📊 Risk, Compliance & Governance
+
+CVSS – Scores vulnerability severity (0–10)
+
+BIA / RTO / RPO – Business continuity metrics
+
+ISO 27001 / NIST 800-53 – Security frameworks
+
+Acceptable Use Policy (AUP) – Defines allowed behavior
+
+Secure Configuration Guides – Reduce misconfigurations
+
+💾 Data Protection
+
+Full Disk Encryption (FDE) – Protects data at rest
+
+DLP – Prevents data exfiltration
+
+Integrity – Ensures data is not altered
+
+Password Hashing – One-way storage of credentials
