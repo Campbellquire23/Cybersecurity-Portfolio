@@ -1,0 +1,57 @@
+Overall Day: 57
+Practice Exams: Day 13
+Focus: Practice quiz review, concept reinforcement, and weak-area identification
+
+🔹 Study Overview
+
+Today was dedicated to completing the majority of the remaining practice quiz sections (30+ sections, 5 questions each). Instead of handwritten notes, the focus was on recognizing recurring concepts, identifying why answers were incorrect, and strengthening exam-style reasoning.
+
+Although many questions were still missed, this session was valuable for exposing gaps and reinforcing how CompTIA phrases and tests key security topics.
+
+🔐 Key Concepts Reinforced
+
+Risk Management & Frameworks
+
+NIST Risk Management Framework (RMF)
+
+Defense in Depth as a layered security strategy
+
+Business Continuity vs Disaster Recovery planning concepts
+
+Network & Application Security
+
+Web Application Firewalls (WAFs) and SSL/TLS inspection requirements
+
+LDAP vs LDAPS (secure directory authentication)
+
+Round-robin load balancing and its limitations
+
+Perfect Forward Secrecy (PFS)
+
+Authentication & Access Control
+
+Multi-Factor Authentication (MFA) examples
+
+Privilege creep and least-privilege enforcement
+
+Role of data custodians vs data owners
+
+Secure credential handling and session security
+
+Threats & Attacks
+
+Shoulder surfing (social engineering)
+
+Telnet vs encrypted protocols
+
+DNS-based threats and traffic interception concepts
+
+Password exposure risks and common misconfigurations
+
+Security Operations
+
+Sandbox usage for malware and phishing analysis
+
+Secure configuration guidelines and hardening
+
+Importance of encrypted communication channels
