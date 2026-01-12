@@ -1,0 +1,76 @@
+
+📘 CompTIA Security+ – Day 58 Summary
+
+Overall Day: 58
+Practice Exams: Day 14
+Milestone: Completed full 38-section practice quiz set
+
+🔹 Study Overview
+
+Today marked the completion of a 38-section Security+ practice quiz set that has been worked through over the past two weeks. The focus today was not heavy note-taking, but final reinforcement of recurring concepts, reviewing mistakes, and recognizing patterns in CompTIA-style questions.
+
+This session emphasized risk reduction strategies, data protection controls, and network-level security restrictions, all of which continue to appear frequently across practice exams.
+
+🔐 Key Concepts Reinforced
+
+Data Protection & Monitoring
+
+Data Loss Prevention (DLP): Preventing unauthorized exfiltration of sensitive data via email, file transfer, or cloud storage through monitoring and policy enforcement.
+
+Detection and blocking of attempts to move sensitive data outside the organization.
+
+Infrastructure & Power Controls
+
+Managed Power Distribution Units (PDUs): Used to monitor and control power consumption in secure environments, helping identify abnormal power usage that could indicate unauthorized devices.
+
+Network Access Restrictions
+
+Limiting exposure of systems with expired vendor support or known vulnerabilities.
+
+Use of:
+
+Firewalls
+
+Network segmentation
+
+VLANs
+
+Access control lists (ACLs)
+
+Reducing attack surface and mitigating risk from legacy or unpatchable systems.
+
+Risk Mitigation Strategy
+
+Using compensating and preventative controls to reduce the impact of vulnerabilities when systems cannot be immediately replaced.
+
+Applying layered defenses to control access rather than relying on a single security mechanism.
+
+🧠 Key Takeaways
+
+Completing the full quiz set revealed consistent weak domains, which is expected at this stage.
+
+Many incorrect answers are tied to:
+
+Subtle wording differences
+
+Choosing “best” vs “technically correct” answers
+
+Exposure across all 38 sections has improved:
+
+Threat recognition
+
+Control classification (preventive vs detective vs corrective)
+
+Confidence in eliminating wrong answer choices
+
+🎯 Next Steps
+
+Begin new practice quiz sets with a fresh baseline
+
+Shift focus from volume to:
+
+Domain-based review
+
+High-frequency exam topics
+
+Continue documenting progress daily to track improvement and persistence
