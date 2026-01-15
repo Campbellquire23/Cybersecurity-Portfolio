@@ -1,0 +1,27 @@
+Day 61 Summary
+
+Practice Quizzes – Day 17 (Security Concepts & Incident Response)
+
+Today’s review focused on advanced security threats, detection mechanisms, and operational controls commonly tested in security exams.
+
+Key topics covered include Business Email Compromise (BEC), which is a sophisticated social-engineering attack targeting organizations that conduct wire transfers. These attacks often impersonate executives or trusted partners to trick employees into transferring funds or sensitive data to fraudulent accounts.
+
+The notes also reviewed Intrusion Prevention Systems (IPS) operating in active mode, where traffic is inspected inline and malicious packets matching known attack signatures can be blocked automatically. This contrasts with passive monitoring tools that only alert.
+
+Another major concept was alert fatigue, a condition where security analysts become desensitized due to excessive alerts—many of which are false positives—leading to missed real threats. Reducing false positives and tuning alert thresholds is critical to effective security operations.
+
+The material covered zero-day vulnerabilities, which are flaws unknown to vendors at the time of exploitation. Because no patches exist initially, mitigation relies on compensating controls, monitoring, and vendor response. In open-source software, organizations may depend heavily on external maintainers for timely fixes.
+
+Secure configuration baselines were emphasized as standardized, hardened system configurations that reduce attack surface and serve as a trusted starting point for deployments. These baselines are critical for consistency and compliance.
+
+The notes also covered detective controls, which identify incidents after they occur, such as log reviews and forensic analysis.
+
+Additional topics included:
+
+Replacing SSL/TLS certificates, which requires generating a new Certificate Signing Request (CSR) and reissuing the certificate
+
+Counterfeit hardware risks, where supply-chain compromises can introduce malicious components
+
+Jailbreaking/rooting, which removes OS-level restrictions and allows unauthorized software installation, significantly increasing security risk
+
+Overall, today’s work reinforced real-world attack scenarios, detection challenges, and defensive best practices, with improved accuracy compared to earlier practice quiz sets.
