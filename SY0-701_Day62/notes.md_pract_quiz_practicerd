@@ -1,0 +1,21 @@
+Day 62 Summary
+
+Practice Quiz Review – Day 18
+
+Today was focused on review and reinforcement rather than new note-taking. I completed a review of 60 practice questions from the most recent sections of the new practice quiz set. While I still missed around 10 questions, overall accuracy continues to improve compared to earlier quiz attempts, indicating better retention and understanding of core security concepts.
+
+The review reinforced several recurring themes from recent quizzes:
+
+Social engineering and fraud attacks, especially Business Email Compromise (BEC), where attackers impersonate executives or trusted parties to trick employees into transferring funds or sensitive data.
+
+Detection vs prevention controls, including the role of IPS in active (inline) mode versus passive monitoring tools, and how poor tuning can lead to alert fatigue.
+
+Vulnerability management concepts, such as zero-day vulnerabilities, compensating controls, and the importance of vendor response and patching timelines.
+
+System hardening and secure configurations, emphasizing baseline configurations, change management, and rollback/backout plans to reduce downtime and unintended impact.
+
+Access and privilege risks, including password spraying, account compromise, and the dangers of jailbreaking/rooting devices.
+
+Operational security challenges, such as alert fatigue, supply-chain risks (counterfeit hardware), and reliance on external maintainers for open-source software.
+
+Due to time constraints, no new written notes were created today. Instead, the session prioritized active review, error correction, and identifying weak areas to target in upcoming practice quizzes. This approach supports gradual accuracy improvement while maintaining daily study consistency.
