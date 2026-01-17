@@ -1,0 +1,36 @@
+
+Day 63 Summary
+
+Practice Quizzes – Security Concepts Review (Day 19)
+
+Today’s work focused on reinforcing core cybersecurity concepts through continued practice quizzes, with emphasis on compensating controls, access control models, detection tuning, and incident recovery. The session highlighted how organizations manage risk when ideal controls are not feasible, especially in legacy or constrained environments.
+
+Key concepts reviewed:
+
+Compensating Controls
+Alternative security measures used when the primary control is not feasible or cost-effective. Often applied to legacy systems to meet security requirements without full redesign.
+
+External Threat Landscape
+The constantly evolving set of threats originating outside the organization, increasing the overall attack surface and requiring adaptive defensive strategies.
+
+MAC Address Uniqueness & ARP Poisoning
+MAC addresses should be unique per network interface. Duplicate MAC addresses can indicate ARP spoofing/poisoning attacks used for man-in-the-middle interception.
+
+Static Code Analysis
+Examines source code without executing it to identify vulnerabilities, insecure coding practices, and configuration issues early in the development lifecycle.
+
+Security Tuning
+Adjusting IDS/IPS, SIEM, or detection rules to reduce false positives and alert fatigue while maintaining effective threat detection.
+
+Host-Based Firewalls
+Control traffic at the individual host level, filtering based on applications, ports, and IP addresses to limit lateral movement and internal threats.
+
+Disaster Recovery Planning (DRP)
+Policies and procedures designed to restore system operations after failures or disasters, ensuring business continuity.
+
+Role-Based Access Control (RBAC)
+Permissions are assigned to roles rather than individuals. Changes to a user’s role dynamically adjust access without modifying permissions directly.
+
+Overall Progress
+
+While still encountering incorrect answers, accuracy continues to improve compared to earlier quiz sets. This session emphasized concept reinforcement over note volume, strengthening foundational understanding ahead of future practice rounds.
