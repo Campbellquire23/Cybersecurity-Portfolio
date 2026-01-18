@@ -1,0 +1,29 @@
+📘 Day 64 Summary
+
+Practice Quizzes – Security, Forensics, and Cloud Concepts (Day 20)
+
+Today’s session focused on reinforcing several advanced security concepts through continued practice quizzes, with emphasis on identity federation, forensic evidence handling, cloud service models, and attack techniques. Due to limited time, the goal was concept reinforcement rather than volume.
+
+Key concepts reviewed:
+
+SAML (Security Assertion Markup Language)
+An XML-based open standard that enables single sign-on (SSO) by allowing users to authenticate with corporate credentials to access third-party cloud providers. Uses an Identity Provider (IdP) to pass authentication and authorization assertions.
+
+Order of Volatility (Forensics)
+A foundational forensic principle that dictates the sequence of evidence collection based on how quickly data can be lost or altered. Highly volatile data (RAM, cache, running processes) must be collected before less volatile sources (disk, backups).
+
+End User Security Training
+Critical for reducing phishing and social engineering attacks. Training users to verify URLs, recognize suspicious links, and understand attacker techniques is a core part of organizational security awareness programs.
+
+Serverless Framework / Serverless Computing
+A cloud computing model where developers deploy applications without managing underlying servers. The cloud provider handles infrastructure provisioning, scaling, and maintenance.
+
+hping
+A command-line network tool used to craft and send custom TCP/IP packets. Commonly used for firewall testing, network diagnostics, packet generation, and security assessments.
+
+Memory Injection Attacks
+An attack technique that allows malicious code to be executed directly in memory without writing to disk. Often exploits unvalidated input and is used to evade traditional file-based detection mechanisms.
+
+Overall Progress
+
+Despite limited time today, key concepts were reinforced effectively. Continued exposure to these topics through practice quizzes is helping solidify understanding, particularly in identity management, forensic analysis, and modern cloud attack surfaces.
