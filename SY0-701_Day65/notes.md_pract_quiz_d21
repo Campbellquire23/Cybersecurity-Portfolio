@@ -1,0 +1,39 @@
+📘 Day 65 Summary – Practice Quizzes (Day 21)
+
+Today’s study session focused on reinforcing core cybersecurity concepts through practice quizzes, with emphasis on risk management, vulnerability identification, availability, application security, and network security fundamentals. Accuracy is improving gradually, currently around 50% correct, highlighting progress while identifying remaining weak areas.
+
+Key Concepts Reviewed
+
+Business Impact Analysis (BIA)
+Evaluates the potential operational and financial impact of system disruptions. BIA helps prioritize recovery efforts by identifying critical business functions and acceptable downtime.
+
+File Integrity Monitoring (FIM)
+Detects and alerts on unauthorized changes to critical files, configurations, and directories. Commonly used to protect sensitive data (e.g., PII) and ensure system integrity.
+
+Zero Trust Security Model
+Enforces strict access controls by assuming no implicit trust—every request must be authenticated and authorized. Reduces attack surface and lateral movement within networks.
+
+Memory Injection Vulnerabilities
+Allow attackers to execute malicious code in memory, often bypassing traditional disk-based detection methods. Commonly associated with abnormal outbound traffic and command execution.
+
+Vulnerability Scanning
+Regular scans help identify missing patches, misconfigurations, and known vulnerabilities across endpoints and systems.
+
+Data Ownership
+The data owner is responsible for classifying data, defining access controls, and ensuring appropriate security protections are applied.
+
+High Availability & Load Balancing
+Load balancers distribute traffic across multiple servers to prevent overload and maintain service availability during failures.
+
+Cross-Site Request Forgery (CSRF)
+Exploits authenticated user sessions by tricking browsers into executing unauthorized actions without user consent.
+
+Wireless Channel Interference
+Overlapping Wi-Fi channels degrade performance. Proper channel planning (using non-overlapping channels, especially in the 2.4 GHz band) reduces interference.
+
+Standardizing Security Programs
+Organizations can align security posture by adopting a common cybersecurity framework (CSF), enabling consistent controls, risk language, and governance across environments.
+
+🧠 Reflection
+
+Practice quizzes continue to expose knowledge gaps while reinforcing key domains. Although accuracy is still developing, repeated exposure to exam-style questions is strengthening understanding of applied security concepts and improving long-term retention.
