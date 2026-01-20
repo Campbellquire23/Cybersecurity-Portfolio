@@ -1,0 +1,75 @@
+Day 66 Summary — Practice Quizzes (Day 22)
+
+Today focused heavily on incident response, risk analysis, identity management, network security controls, malware behavior, and data protection concepts. Although accuracy is still around 40–50%, note-taking depth and conceptual coverage are strong.
+
+🔍 Incident Response & Risk
+
+Incident Analysis is a core IR activity involving evidence collection, log analysis, timeline reconstruction, and identifying root cause, attacker motives, and capabilities.
+
+Risk Assessment evaluates both likelihood and impact of threats.
+
+ALE (Annualized Loss Expectancy) estimates yearly financial risk:
+
+ALE = SLE × ARO
+
+SLE = cost of a single incident
+
+ARO = expected frequency per year
+
+Used heavily for cost justification (e.g., insurance, security investments).
+
+🧠 Threat Actors & Malware
+
+Cyber organized crime groups are well-funded, sophisticated, and financially motivated.
+
+Often overlap with APT-style tactics.
+
+Ransomware encrypts victim data and demands payment for decryption keys (example: Ryuk).
+
+Memory injection vulnerabilities allow malicious code execution inside legitimate processes, often bypassing traditional defenses.
+
+🔐 Identity, Authentication & Certificates
+
+OCSP (Online Certificate Status Protocol) verifies whether a certificate is still valid and not revoked.
+
+Browsers validate:
+
+Certificate is issued by a trusted CA
+
+Certificate is valid and not revoked
+
+Identity Providers (IdP) centralize authentication and enable SSO using protocols like SAML or OIDC.
+
+🌐 Network & Application Security
+
+Port security restricts which devices can connect to network switch ports.
+
+Input validation is a primary defense against XSS by sanitizing user input.
+
+Behavior-based rules analyze traffic patterns to detect anomalies and mitigate attacks like DDoS.
+
+NGFWs rely on behavioral analysis rather than static signatures alone.
+
+🗂️ Data Protection & Privacy
+
+DLP (Data Loss Prevention) systems identify, monitor, and protect sensitive data using classification labels and policies.
+
+Loss assessment preserves logs and artifacts off-site for future forensic analysis.
+
+GDPR roles:
+
+Data Controller determines purpose and means of processing
+
+Data Processor processes data on behalf of the controller
+
+Clear role definition is critical for building and maintaining a compliant data privacy program.
+
+📊 Overall Progress
+
+Still scoring ~40–50%, but:
+
+Notes are detailed and improving
+
+Breadth of concepts is expanding rapidly
+
+Focus is shifting from memorization → understanding relationships between controls, threats, and risk
