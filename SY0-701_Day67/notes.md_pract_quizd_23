@@ -1,0 +1,61 @@
+Day 67 Summary — Practice Quizzes (Day 23)
+
+Focus: Security operations, zero trust, data protection, application security, and modern cloud architecture concepts.
+
+Today’s session covered a wide range of security fundamentals and operational practices encountered in recent practice quizzes:
+
+Security Playbooks:
+Step-by-step procedural guides used by SOC teams to respond consistently to specific security incidents.
+
+Disaster Recovery (DR) vs. Business Continuity (BCP):
+
+DR focuses on restoring IT systems after a disaster.
+
+BCP ensures critical business operations continue during and after a disruption using alternate processes, sites, and recovery plans.
+
+Zero Trust Architecture:
+Emphasizes “never trust, always verify,” micro-segmentation, and least privilege access to reduce blast radius if a breach occurs.
+
+Threat Scope Reduction:
+Dividing networks into isolated segments to limit lateral movement and minimize the impact of a compromised system.
+
+High Availability in Critical Applications:
+Systems (e.g., medical or emergency apps) must be continuously available since downtime can directly affect health and safety.
+
+Password Spraying Indicators:
+Suspicious IPs, many failed logins across multiple accounts, and repeated attempts from the same source.
+
+Data Loss Prevention (DLP):
+Used to monitor, detect, and block unauthorized transmission of sensitive data (e.g., preventing an employee from emailing customer lists externally).
+
+Ransomware:
+Malware that encrypts victim data and demands payment for decryption keys (e.g., Ryuk).
+
+Behavior-Based Detection (NGFW/IDS):
+Identifies anomalies by comparing traffic patterns against known normal behavior to detect evolving attacks.
+
+Loss Assessment:
+Collecting and preserving logs and forensic data in centralized off-site storage for future analysis and investigations.
+
+Data Privacy Roles (GDPR):
+
+Data Controller: Determines the purpose and means of processing personal data.
+
+Data Processor: Processes data on behalf of the controller.
+Establishing clear responsibility is essential for compliance.
+
+Research & Development (R&D):
+Generates new products, processes, and intellectual property — often the most valuable and sensitive business assets.
+
+Intellectual Property (IP):
+Includes patents, copyrights, trademarks, and proprietary designs — critical assets requiring strong protection.
+
+Identity Proofing:
+Verifies a user’s identity before granting access or MFA resets, helping prevent social engineering attacks.
+
+Secure SDLC (Software Development Life Cycle):
+Integrates security policies, secure coding practices, access control, and testing throughout application development.
+
+Serverless Architecture (AWS Lambda, Azure Functions):
+Allows developers to deploy code without managing servers.
+Cloud providers handle scaling, patching, and maintenance, enabling faster CI/CD and reduced infrastructure overhead.
