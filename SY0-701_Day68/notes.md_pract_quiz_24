@@ -1,0 +1,58 @@
+Day 68 Summary — Practice Quizzes (Day 24)
+
+Focus: Authentication systems, compliance, incident response readiness, application security, and insider threat protection.
+
+Today’s session emphasized enterprise security infrastructure, compliance validation, and response coordination concepts:
+
+Code Integrity & Authenticity:
+The best way to ensure compiled binaries in production haven’t been altered is to verify digital signatures and checksums. This confirms both authenticity and integrity of software.
+
+RADIUS Server & AAA:
+Installing a RADIUS server enables centralized Authentication, Authorization, and Accounting (AAA):
+
+Authentication: Verifies user identity
+
+Authorization: Determines what resources a user can access
+
+Accounting: Tracks user activity for auditing and billing
+Used heavily in VPNs, Wi-Fi networks, and enterprise access control.
+
+External Examination (External Audit):
+Conducted by an independent third party to assess regulatory compliance, legal obligations, and security posture.
+Provides an objective benchmark of how well security policies and controls align with external standards.
+
+Orchestration:
+Automated coordination and management of multiple tasks or systems to streamline complex workflows — commonly used in security operations to speed up incident response.
+
+Tabletop Exercises:
+Discussion-based simulations used to validate incident response documentation and team readiness without a real attack occurring.
+Helps identify gaps in procedures and communication.
+
+Web Application Firewall (WAF):
+Protects web applications by monitoring, filtering, and blocking HTTP/HTTPS traffic.
+Most appropriate for defending customer-facing portals from SQL injection, XSS, and other web-based attacks.
+
+Insider Threat Awareness:
+For organizations with high-value intellectual property, insider threat protection includes:
+
+Employee education on suspicious behavior
+
+Recognizing data exfiltration indicators
+
+Understanding policies for protecting IP
+
+Reporting anomalous activity
+Focuses on internal risk rather than external attackers.
+
+End-of-Life (EOL) Systems:
+Legacy systems without vendor patch support pose serious security risks.
+Lack of updates significantly increases vulnerability exposure.
+
+Defense in Depth:
+Layered security approach combining multiple controls (network, application, identity, monitoring) so failure of one layer doesn’t result in total compromise.
+
+Patch Availability & Risk:
+Systems without available patches require compensating controls and increased monitoring due to elevated exploit risk.
+
+Incident Response Readiness:
+Tabletop exercises are specifically designed to improve the incident response process by practicing roles, escalation paths, and decision-making under simulated conditions.
