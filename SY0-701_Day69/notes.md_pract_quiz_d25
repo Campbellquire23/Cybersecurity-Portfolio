@@ -1,0 +1,65 @@
+📘 Day 69 Summary – Practice Quiz Review & Security Concepts
+
+Focus: Continued practice quizzes with deep-dive notes on application security, network defense, cryptography, and secure development practices. Still scoring ~50%, but building strong conceptual foundations through detailed review.
+
+Key Topics Covered
+
+1. Dynamic Analysis
+
+Security testing method that evaluates an application while it is actively running.
+
+Observes real-time behavior and interactions with other systems.
+
+Useful for identifying runtime vulnerabilities not visible in source code.
+
+2. File Integrity Monitoring (FIM)
+
+Continuously monitors and checks critical files for unauthorized changes.
+
+Compares current state to a known baseline to detect tampering.
+
+Key for compliance and detecting insider threats or malware activity.
+
+3. IDS vs. IPS Placement
+
+If IDS detects SQL injection and the firewall isn’t blocking it effectively:
+
+Best action is to deploy IPS mode and position it inline in front of the firewall.
+
+IPS can actively block malicious traffic instead of just alerting.
+
+4. Social Engineering (BEC Example)
+
+Business Email Compromise (BEC) example:
+
+Attacker impersonates the CFO to pressure an employee into sending funds or credentials.
+
+Relies on urgency, authority, and deception.
+
+5. Non-Repudiation
+
+Ensures message senders cannot deny having sent a message.
+
+Uses digital signatures and asymmetric cryptography.
+
+Provides proof of message origin and integrity.
+
+6. Rainbow Table Attacks
+
+Precomputed hash tables used to crack stolen password hashes quickly.
+
+Defense: Salting
+
+Adds a unique random value to each password before hashing.
+
+Makes rainbow tables ineffective.
+
+7. Peer Review & Code Approval
+
+Process where multiple developers examine code before merging.
+
+Prevents malicious code insertion and logic flaws.
+
+Adds accountability and oversight.
+
+Acts as a human-layer defense against insider threats.
