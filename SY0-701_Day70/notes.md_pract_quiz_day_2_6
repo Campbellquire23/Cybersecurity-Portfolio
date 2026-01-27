@@ -1,0 +1,58 @@
+GitHub Summary – Day 70 (Overall) | Day 26 of Practice Quizzes
+
+Focus: Security operations, monitoring, access controls, governance, cryptography weaknesses, and resilience planning
+Activity: Continued practice quizzes with detailed concept review and error analysis
+
+Key Concepts Reviewed
+
+1. SIEM & Threat Detection
+
+SIEM: Collects, correlates, and analyzes security logs/events from multiple sources to detect threats and generate alerts.
+
+Threat hunting: Proactive process of searching for malicious activity that automated tools may miss.
+
+2. Patch Management & Vulnerability Exposure
+
+Patch availability directly affects how long known vulnerabilities remain exploitable.
+
+When patches aren’t available, systems remain exposed and require compensating controls.
+
+3. Secure Web Gateway (SWG)
+
+Filters web traffic to block malware and enforce compliance policies.
+
+Protects remote users without requiring VPN access.
+
+4. Due Diligence & Compliance
+
+Ongoing process of identifying regulatory requirements (GDPR, HIPAA, PCI-DSS, etc.).
+
+Ensures organizational practices align with applicable legal and industry standards.
+
+5. Accounting (AAA Context)
+
+Tracks user activity, logins, commands, and resource usage.
+
+Supports auditing, compliance, and detection of suspicious behavior.
+
+6. Bastion Host
+
+Hardened server used as a controlled entry point into internal systems.
+
+Funnels all administrative access through a single secured gateway.
+
+7. Retention Policies
+
+Define how long different types of data must be stored.
+
+Supports legal, regulatory, and business continuity requirements.
+
+8. Disaster Recovery Infrastructure
+
+Hot sites: Fully operational backups that can immediately assume business operations after a disaster.
+
+9. Cryptographic Weaknesses
+
+MD5: Considered insecure due to collision vulnerabilities.
+
+Cryptographic vulnerabilities: Weaknesses in algorithms or implementations that compromise integrity and security.
