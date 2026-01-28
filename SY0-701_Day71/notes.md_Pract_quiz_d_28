@@ -1,0 +1,85 @@
+📘 Day 71 Summary — Practice Quizzes & Security Concepts Review
+
+Today focused on deeper defensive security, infrastructure protection, access control, malware behavior, and data protection mechanisms, with an emphasis on how controls operate in real environments and how attackers attempt to bypass them.
+
+🔐 Cryptography & Data Integrity
+
+Cryptographic Hash Functions are used to verify data integrity by producing a fixed-length hash from an input. Even the smallest change to the input produces a completely different hash.
+
+Matching hashes confirm data has not been altered; mismatches indicate tampering.
+
+MD5 is considered insecure due to collision vulnerabilities and should not be used in modern systems.
+
+Encryption at Rest ensures data stored on physical devices remains unreadable if hardware is lost or stolen.
+
+☁️ Cloud Security & Shared Responsibility
+
+In IaaS, the cloud provider secures physical infrastructure, networking, and hypervisors.
+
+The customer is responsible for OS security, installed applications, data protection, IAM, and configurations.
+
+Understanding responsibility boundaries is critical to avoiding misconfigurations and data exposure.
+
+🛡️ Network & Infrastructure Security
+
+Port Security on switches mitigates MAC flooding attacks by limiting allowed MAC addresses.
+
+Network Traffic Capture provides evidence of communication with external systems but generates massive data volumes and should be time-limited.
+
+Bastion Hosts act as hardened entry points for administrative access, reducing exposure of internal systems.
+
+Server Hardening minimizes attack surface by disabling default accounts, removing unnecessary services, and reducing exploitable vulnerabilities.
+
+🧠 Malware, Persistence & Threat Techniques
+
+Rootkits are designed to maintain persistent, privileged access while hiding their presence by modifying core system files.
+
+Unauthorized system file modifications are strong indicators of compromise.
+
+Cryptojacking abuses system resources for cryptocurrency mining without user consent.
+
+Ransomware-as-a-Service (RaaS) enables organized crime groups to distribute ransomware at scale, operating like legitimate businesses.
+
+👤 Identity, Privilege & Access Control
+
+PAM (Privileged Access Management) enforces role-based access, credential rotation, session logging, and time-limited privileged access.
+
+Elevated privileges are often required for system patching and configuration changes.
+
+RBAC ensures users only have permissions necessary for their role, reducing insider and lateral-movement risk.
+
+📊 Monitoring, Visibility & Physical Security
+
+Asset Inventories are essential for vulnerability management, impact assessment, and remediation prioritization.
+
+Air-gapped systems are physically isolated from untrusted networks, reducing remote attack vectors.
+
+CCTV and signage act as deterrent and detective controls.
+
+Data Masking obfuscates sensitive fields while preserving usability for testing and reporting.
+
+🔍 Detection, Analysis & Incident Response
+
+Dynamic Analysis evaluates application behavior while running, unlike static analysis which inspects source code.
+
+SIEMs collect, normalize, and correlate logs to detect threats and support incident response.
+
+Patch Availability affects remediation timelines; compensating controls may be required when patches are unavailable.
+
+Packet Capture Retention should be minimized due to storage and privacy considerations.
+
+🧾 Governance, Risk & Compliance
+
+Retention Policies define how long data is kept to meet legal and business requirements.
+
+Hot Sites allow near-immediate business resumption after disasters.
+
+Due Diligence ensures compliance with regulatory requirements (HIPAA, PCI DSS, GDPR) and validates organizational security posture.
+
+🧠 Progress Reflection
+
+Still scoring ~50%, but today showed clear depth, volume, and conceptual understanding.
+
+Notes demonstrate growing ability to connect tools, threats, and controls rather than memorizing definitions.
+
+This is the hard middle — exactly where real learning happens.
