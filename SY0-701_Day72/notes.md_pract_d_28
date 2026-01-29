@@ -1,0 +1,167 @@
+✅ Day 72 – Cybersecurity Study Notes
+
+Focus Areas: Data protection, governance, vulnerability scoring, cloud automation, fraud, operational controls, and regulatory compliance.
+
+Data Privacy & Protection
+Data Subject
+
+The individual whose personal data is collected, processed, or stored.
+
+Organizations act as custodians responsible for protecting this data.
+
+Data Loss Prevention (DLP)
+
+DLP tools detect and prevent unauthorized transmission of sensitive information using:
+
+Fingerprinting
+
+File signatures
+
+Pattern recognition
+
+Policy enforcement
+
+Purpose: Stop data exfiltration before it occurs.
+
+Acceptable Use Policy (AUP)
+
+Defines rules and expectations for using organizational IT resources.
+
+Serves as a managerial control guiding employee behavior.
+
+👉 Helps reduce insider threats and misuse.
+
+Managerial Controls
+
+High-level plans and governance structures that form the foundation of an organization's security program.
+
+They:
+
+Define roles and responsibilities
+
+Establish accountability
+
+Support compliance requirements
+
+Critical Data
+
+Information essential for immediate operations and organizational survival.
+
+Examples include:
+
+Financial records
+
+Operational systems
+
+Intellectual property
+
+Loss of critical data can cause:
+
+Severe financial damage
+
+Reputational harm
+
+Operational disruption
+
+Potential business failure
+
+CVSS (Common Vulnerability Scoring System)
+
+Provides a standardized method for rating vulnerability severity.
+
+Generates a numerical score (0–10)
+
+Reflects exploitability and potential impact.
+
+Used for:
+
+Prioritizing patching
+
+Risk management decisions
+
+Resource allocation
+
+Infrastructure as Code (IaC)
+
+A cloud best practice that allows infrastructure to be provisioned using machine-readable configuration files such as:
+
+YAML
+
+JSON
+
+Benefits:
+
+Faster deployments
+
+Version control
+
+Consistency
+
+Scalability
+
+Reduced manual error
+
+Business Email Compromise (BEC) – Invoice Scam
+
+A fraud technique where attackers send fake invoices hoping an employee processes payment without proper verification.
+
+Primary weakness exploited: Lack of payment validation controls.
+
+Security Automation
+
+Automation is the most reliable way to maintain consistent security enforcement.
+
+Helps organizations:
+
+Reduce human error
+
+Improve detection
+
+Enforce policies continuously
+
+Especially valuable as environments scale.
+
+Job Rotation (Detective Control)
+
+Moving employees between roles periodically.
+
+Benefits:
+
+Exposes fraudulent activity
+
+Identifies process weaknesses
+
+Provides fresh oversight
+
+Acts as a detective control
+
+Regulatory Audits in Banking
+
+Financial institutions operate under strict regulatory frameworks such as:
+
+Basel Accords
+
+Dodd-Frank
+
+GLBA
+
+SOX
+
+Audits ensure:
+
+Financial integrity
+
+Transparency
+
+Regulatory compliance
+
+🔥 Key Takeaways From Today
+
+If you remember nothing else, remember these:
+
+✅ Protect sensitive data with layered controls
+✅ Prioritize vulnerabilities using CVSS
+✅ Automate security whenever possible
+✅ Governance drives security maturity
+✅ Fraud often exploits human process failures
+✅ Critical data = organizational survival
