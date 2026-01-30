@@ -1,0 +1,154 @@
+
+Day 73
+Overview
+
+Today focused heavily on governance, risk management, cryptography, certificates, physical security controls, and vulnerability lifecycle processes. Emphasis was placed on understanding organizational security responsibilities, operational safeguards, and technical implementations used to protect infrastructure and sensitive data.
+
+Despite challenging quiz performance, substantial progress was made in reinforcing foundational cybersecurity concepts and improving analytical recognition of exam topics.
+
+Key Concepts Reviewed
+Risk Management & Security Governance
+
+Risk Appetite defines the amount of risk an organization is willing to accept in pursuit of strategic objectives.
+
+Security awareness programs must align with:
+
+Organizational threat landscape
+
+Industry-specific risks
+
+Training cadence and duration
+
+Regular training helps prevent employee fatigue while maintaining security awareness.
+
+Cloud Security Responsibilities
+
+The Responsibility Matrix (Shared Responsibility Model) clarifies security duties between:
+
+Cloud Service Provider (CSP)
+
+Customer organization
+
+Each party must implement appropriate controls to ensure full protection.
+
+High Availability (HA)
+
+Designed to maintain operations and reduce downtime.
+
+Critical considerations include:
+
+✅ Rapid recovery mechanisms
+✅ Redundant infrastructure
+✅ Failover systems
+✅ Backup integrations
+
+⚠️ However, HA can increase the attack surface if additional components are not properly secured.
+
+Vulnerability Management Lifecycle
+
+After remediation:
+
+Rescan the environment
+
+Validate fixes
+
+Confirm no new vulnerabilities were introduced
+
+Ensure compliance requirements are met
+
+Lifecycle process:
+
+Scan → Remediate → Rescan
+
+This continuous loop strengthens the organization’s security posture.
+
+Data Sanitization
+
+Sanitization permanently removes data from storage devices so it cannot be recovered after decommissioning or recycling hardware.
+
+This is critical for preventing data leakage.
+
+Certificate Security
+
+Revoked certificates are listed in a Certificate Revocation List (CRL).
+
+Systems must check CRLs to ensure certificates are still valid.
+
+Failure to verify revocation status creates major trust vulnerabilities.
+
+Security Control Types
+
+Managerial Controls
+
+Focus on policies, risk strategy, and governance.
+
+Operational Controls
+
+Address day-to-day procedures that maintain security.
+
+Technical Controls
+
+Logical protections such as:
+
+IDS/IPS
+
+Encryption
+
+Access controls
+
+Digital signatures
+
+Digital signatures also support non-repudiation, ensuring senders cannot deny transmitting a message.
+
+Physical Security Sensors
+
+Sensors detect environmental changes such as:
+
+Motion
+
+Temperature
+
+Pressure
+
+Vibration
+
+Detection technologies include:
+
+Ultrasonic
+
+Microwave
+
+Thermal
+
+These devices act as early warning systems.
+
+Wildcard Certificates
+
+A wildcard certificate secures a primary domain and all associated subdomains.
+
+Example:
+
+*.company.com
+
+
+Provides scalable certificate management.
+
+Public Key Infrastructure & Blockchain
+
+Blockchain functions as a decentralized digital ledger.
+
+Uses public ledgers to provide:
+
+Transparency
+
+Integrity
+
+Tamper resistance
+
+Supports secure transaction records.
+
+Performance Reflection
+
+Quiz scores remained challenging today, but deep note-taking indicates strong conceptual engagement — a far more reliable predictor of long-term certification success than short-term scores.
+
+Consistency remains the primary driver of mastery.
