@@ -1,0 +1,81 @@
+Day 74 Summary – CompTIA Security+
+
+Focus: Security Architecture (Practice Quiz – 20 Questions)
+
+Core Topics Covered
+
+Power & Availability
+
+UPS (Uninterruptible Power Supply): Provides short-term backup power during outages or fluctuations, allowing systems to shut down gracefully and preventing data loss.
+
+Elasticity: The ability of systems (especially cloud environments) to automatically scale resources up or down based on demand.
+
+Network Access & Segmentation
+
+Jump Servers: Act as controlled connection points between security zones. They are highly restricted, logged, and isolated to prevent unauthorized lateral movement.
+
+Security Zones: Logical or physical network separations that limit access and contain threats within defined boundaries.
+
+Air Gaps: Physical isolation of a network segment with no logical or physical connection to external systems, preventing remote access entirely.
+
+Unified & Layered Security
+
+UTM (Unified Threat Management): Combines multiple security functions (firewall, IDS/IPS, VPN, DLP, etc.) into a single centralized interface for simplified management and visibility.
+
+Appropriate Data Security by State:
+
+Data in Transit: Encryption (VPN, TLS/IPSec), integrity checks
+
+Data in Use: Strong access controls, role-based permissions
+
+Data at Rest: Encryption, physical security, strict access policies
+
+Network Architecture Models
+
+Decentralized Architecture: Distributes infrastructure across multiple locations (e.g., cloud or hybrid environments) to improve resilience.
+
+Centralized Architecture: Concentrates network infrastructure in a single primary location (on-prem or data center).
+
+Architecture vs Infrastructure:
+
+Architecture = how the network is designed and organized
+
+Infrastructure = the hardware/software components that implement that design
+
+Operational & Specialized Systems
+
+RTOS (Real-Time Operating Systems): Used in environments requiring immediate response (medical devices, industrial systems). Prioritizes deterministic timing over throughput.
+
+Pacemaker Example: RTOS can detect abnormal heart rhythms and immediately alert or respond without delay.
+
+Failure Behavior & Networking Standards
+
+Fail-Open vs Fail-Closed:
+
+Fail-Open: Allows traffic when a system fails (availability prioritized)
+
+Fail-Closed: Blocks traffic when a system fails (security prioritized)
+
+IEEE: Organization responsible for networking standards such as 802.1X, used for wired and wireless network authentication.
+
+VPN Configurations
+
+Full Tunnel VPN: Routes all traffic through the VPN.
+
+Split Tunnel VPN: Routes only specific traffic through the VPN, allowing other traffic to bypass it.
+
+Resilience & Recovery
+
+Failover: Automatically shifts operations from a primary system to a backup system. Highly intrusive but provides the most accurate validation of resilience and recovery performance.
+
+📌 Key Takeaways
+
+Strong security architecture balances availability, segmentation, and control.
+
+Isolation techniques (jump servers, zones, air gaps) significantly reduce attack surface.
+
+Understanding failure behavior (fail-open vs fail-closed) is critical for real-world decision-making.
+
+RTOS and specialized systems emphasize speed and determinism over flexibility.
+
+This quiz showed improved performance and confidence in architecture concepts.
