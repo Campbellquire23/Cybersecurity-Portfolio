@@ -1,0 +1,67 @@
+✅ Day 75 Summary
+
+Overall Day: 75
+Practice Quizzes: Day 31
+Focus Area: Security Operations (CompTIA Security+)
+
+🔐 Security Operations – Key Concepts Reviewed
+
+1. Authentication, Identity, and Access
+
+Federation: Enables authentication across multiple systems using trusted Identity Providers (IdPs) like Google or Apple.
+
+Biometric Authentication: Uses physical traits (fingerprints, retina scans) to verify identity.
+
+Deprovisioning: The formal process of terminating user access, including account deletion, credential revocation, and removal of residual data.
+
+DAC (Discretionary Access Control): Resource owners control access permissions; commonly used in non-networked or smaller environments.
+
+2. Secure Communications & Protocols
+
+IMAP / POP3: Email retrieval protocols secured using SSL/TLS for encrypted transport.
+
+SSL/TLS: Provides encrypted communication at the transport layer to protect data confidentiality and integrity.
+
+Code Signing: Uses PKI to digitally sign software, ensuring authenticity and integrity by validating against trusted certificates.
+
+3. Monitoring, Detection, and Analysis
+
+SIEM (Security Information and Event Management):
+
+Collects logs from multiple sources
+
+Correlates events and trends
+
+Provides dashboards for high-level security visibility
+
+Packet Monitoring: Captures and analyzes network packets to detect anomalies and suspicious activity.
+
+NetFlow: Monitors network traffic metadata (IPs, ports, protocols) to analyze traffic patterns and bandwidth usage.
+
+Local DLP Alerts: Triggered when sensitive data exceeds normal thresholds or violates policy.
+
+4. Wireless & Network Planning
+
+RF (Radio Frequency): Used for wireless communications; Wi-Fi commonly operates on 2.4 GHz and 5 GHz bands.
+
+Site Surveys: Conducted before wireless deployment to assess signal strength, interference, coverage gaps, and optimal AP placement.
+
+Security Zones: Segment networks physically or logically to isolate sensitive systems and limit lateral movement.
+
+5. Device & Deployment Models
+
+COPE (Corporate-Owned, Personally Enabled):
+
+Devices owned and controlled by the organization
+
+Limited personal use permitted
+
+Greater enterprise control compared to BYOD
+
+Asset Control: Enterprise-owned devices allow stronger enforcement of security policies and monitoring.
+
+6. Incident Response & Data Handling
+
+Local DLP: Detects abnormal data movement requiring escalation beyond standard operations.
+
+Security Operations Workflow: Monitoring → Detection → Analysis → Response → Recovery
