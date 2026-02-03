@@ -1,0 +1,37 @@
+## Day 76 – CompTIA Security+ Practice Quizzes  
+**Overall Day:** 76  
+**Practice Quiz Day:** 32  
+**Domain Focus:** Program Management & Oversight  
+
+Today focused on governance, risk, compliance, and security oversight concepts critical to organizational security strategy and decision-making. Emphasis was placed on understanding how risk is identified, assessed, managed, and monitored at an enterprise level rather than through technical controls alone.
+
+### Key Concepts Covered
+
+- **Risk Assessments**
+  - Ad hoc risk assessments are typically performed in response to a major incident.
+  - Risk assessments identify threats, likelihood, and impact to calculate overall risk.
+  - Risk = Probability × Impact.
+  - Qualitative risk assessments rely on experience and judgment.
+  - Quantitative risk assessments use numerical values and statistical data.
+
+- **Risk Appetite**
+  - Conservative risk appetite avoids risk where possible.
+  - Aggressive risk appetite accepts higher risk for potential gain.
+  - Neutral risk appetite balances risk and reward.
+
+- **Key Risk Indicators (KRIs)**
+  - Metrics used to monitor risk exposure and security posture.
+  - Examples include failed login attempts, data breaches, or access anomalies.
+  - KRIs help measure the effectiveness of security controls over time.
+
+- **Program Management & Governance**
+  - Committees provide oversight for specific processes such as change management.
+  - Governance focuses on aligning security programs with business objectives.
+  - Industry regulations (e.g., PCI DSS) define security requirements for specific sectors.
+
+- **Vendor & Third-Party Risk**
+  - Vendor assessments evaluate third-party risk exposure.
+  - Due diligence requires thorough evaluation of vendors before onboarding.
+
+### Key Takeaway
+This domain emphasizes strategic decision-making, accountability, and long-term risk management rather than hands-on technical controls. Understanding *why* decisions are made is just as important as knowing *how* controls are implemented.
