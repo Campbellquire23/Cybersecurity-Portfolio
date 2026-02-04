@@ -1,0 +1,141 @@
+Day 77 (Overall) – Day 33 Practice Quizzes (Threats, Vulnerabilities, & Mitigations)
+Overview
+
+Today’s study session focused on threat actors, attack types, vulnerabilities, and mitigation strategies through a 20-question CompTIA Security+ practice quiz. The main goal was improving understanding of how real-world attacks occur and how organizations identify and respond to them.
+
+Key Concepts Reviewed
+Birthday Attack
+
+A cryptographic-based attack that exploits hash collision probability.
+
+Based on the idea that in a group of about 23 people, there is already a ~50% chance two share the same birthday.
+
+In cybersecurity, this translates to the likelihood that two different inputs can produce the same hash output, which weakens integrity controls.
+
+Log/Event Analysis (Indicators of Attack)
+
+A large number of log entries showing repeated GET requests directed toward a URL can indicate an attack such as:
+
+SQL Injection
+
+Automated probing / scanning attempts
+
+Reconnaissance behavior
+
+TOCTOU Vulnerability (Time of Check to Time of Use)
+
+A type of race condition vulnerability.
+
+Happens when a system checks something (like file permissions), but between the check and the actual use, the condition changes.
+
+Example: user permissions change after validation but before access is granted.
+
+DNS Poisoning
+
+A man-in-the-middle style attack where a malicious actor intercepts DNS requests and redirects users to a fraudulent site.
+
+The attacker makes a malicious IP address appear to be a legitimate domain destination.
+
+Legacy Systems
+
+A security risk caused by outdated hardware/software that is no longer patched, updated, or supported.
+
+Creates vulnerabilities due to:
+
+unpatched exploits
+
+weak encryption
+
+outdated authentication methods
+
+Hacktivists
+
+Threat actors motivated by ideology, political beliefs, or social causes.
+
+Often use attacks such as:
+
+Website defacement
+
+DDoS attacks
+
+Data leaks/doxxing
+
+Threat Actor Motivation
+
+Threat actors can be driven by many motivations including:
+
+Financial gain
+
+Political beliefs
+
+Revenge
+
+Chaos/disruption
+
+Data theft and exposure
+
+VM Escape
+
+Occurs when an attacker breaks out of a virtual machine and gains access to the host environment.
+
+This can allow movement into other VMs, creating a much larger compromise.
+
+Side Loading
+
+Occurs when data/software is installed or transferred through unauthorized channels.
+
+Often involves:
+
+installing malicious apps
+
+using unofficial sources
+
+unauthorized 3rd party transfers
+
+Ransomware
+
+Malware that encrypts files/data and prevents access until a ransom is paid.
+
+Usually financially motivated.
+
+Amplified DDoS Attack
+
+A DDoS attack that overwhelms a network using small requests that generate massive responses.
+
+Attacker uses reflection/amplification to increase traffic volume dramatically.
+
+Privilege Escalation
+
+The process of gaining higher access levels (user → admin/root).
+
+Gives attackers control and visibility across systems.
+
+Password Spraying
+
+A brute-force technique where attackers try common passwords across many accounts instead of many passwords on one account.
+
+Often avoids account lockout detection.
+
+Cryptographic Key Length
+
+Longer key length = stronger encryption.
+
+Shorter keys are easier to brute force and compromise.
+
+Symmetric vs Asymmetric Encryption
+
+Asymmetric encryption: uses a public and private key pair.
+
+Symmetric encryption: uses the same key for encryption and decryption.
+
+OCSP (Online Certificate Status Protocol)
+
+Used to check certificate validity in real time.
+
+Alternative to CRL (Certificate Revocation List), which is less real-time and can be slower.
+
+Progress Notes
+
+Continued strengthening understanding of real-world security concepts even if quiz scores are still not perfect.
+
+Focus today was building knowledge on threat identification and vulnerability recognition.
