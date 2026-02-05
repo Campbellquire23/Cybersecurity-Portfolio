@@ -1,0 +1,128 @@
+Day 78 Notes Summary (Security+ SY0-701)
+Flashcards – General Security Concepts (Set 1)
+
+Today I worked through a flashcard set focused on general CompTIA Security+ security concepts. This session covered foundational security terminology and core security principles related to cryptography, access control, incident response, and data protection. These flashcards emphasized definitions and real-world usage of security controls, encryption practices, and enterprise security frameworks.
+
+Key Topics Covered
+1. Trusted Platform Module (TPM)
+
+A TPM is a dedicated hardware chip/module used to enhance system security.
+
+It stores cryptographic keys and supports encryption-related operations.
+
+TPM is commonly used for secure boot processes and protecting system credentials.
+
+2. Application Allow List
+
+An application allow list is a security method where only approved/authorized applications are allowed to install or run.
+
+This helps reduce malware infections by blocking unknown or unauthorized software.
+
+3. Corrective Controls
+
+A corrective control is implemented after a security incident occurs.
+
+Its purpose is to fix damage, recover operations, and reduce the impact of similar future events.
+
+Examples: restoring backups, patching exploited vulnerabilities, rebuilding systems after compromise.
+
+4. Operational Controls
+
+Operational controls are security measures based on policies, procedures, and processes.
+
+They focus on ensuring secure day-to-day operations through structured guidelines.
+
+Examples: incident response plans, security training, access request procedures.
+
+5. CIA Triad
+
+The CIA Triad represents the three fundamental goals of information security:
+
+Confidentiality – preventing unauthorized access to data
+
+Integrity – ensuring data is not altered improperly
+
+Availability – ensuring systems/data are accessible when needed
+
+6. Policy Enforcement Point (PEP)
+
+A PEP is a system component that enforces access control decisions.
+
+It monitors and enforces security rules inside environments such as Zero Trust networks.
+
+In Zero Trust environments, PEPs help restrict access based on authentication, authorization, and policy requirements.
+
+7. Proximity Sensors
+
+Proximity sensors detect movement and physical presence.
+
+These sensors may use ultrasonic or other detection technologies to identify motion near secure areas.
+
+8. Honeytoken
+
+A honeytoken is a decoy piece of data placed into a system.
+
+It is designed to look valuable (such as a fake password file or fake database record).
+
+If accessed, it signals potential unauthorized activity or intrusion.
+
+Honeytokens are used for detection rather than prevention.
+
+9. Impact Analysis
+
+An impact analysis is used during the change management process.
+
+It evaluates the potential effect a system change could have on business operations, security, and availability.
+
+This helps determine whether a change is safe and what risks it may introduce.
+
+10. Downtime
+
+Downtime refers to the time period when a system or service is unavailable.
+
+It is often used when evaluating change impacts or planning business continuity procedures.
+
+11. Key Escrow
+
+Key escrow is the practice of storing cryptographic keys with a trusted third party.
+
+It allows access to encrypted data if keys are lost or needed for legal recovery.
+
+12. Full Disk Encryption (FDE)
+
+FDE encrypts the entire storage drive, including files, OS data, and system content.
+
+This prevents unauthorized access if a laptop or device is stolen.
+
+13. Key Exchange
+
+Key exchange is the process of securely distributing cryptographic keys between parties.
+
+Keys may be exchanged using symmetric or asymmetric methods, depending on the encryption design.
+
+14. Secure Enclave
+
+A secure enclave is a protected hardware-based security environment similar to TPM.
+
+It stores cryptographic keys and performs secure operations isolated from the rest of the system.
+
+15. Tokenization
+
+Tokenization replaces sensitive data (example: SSN or credit card number) with a random identifier/token.
+
+The original sensitive value is stored securely and mapped back using a lookup table.
+
+Tokenization reduces exposure of real data in databases and transactions.
+
+16. Wildcard Certificate
+
+A wildcard certificate is indicated with an asterisk (*).
+
+It allows a single certificate to secure multiple subdomains under the same domain.
+
+Example:
+*.example.com covers mail.example.com, store.example.com, etc.
+
+Overall Notes / Progress
+
+This flashcard session emphasized high-level recall of definitions related to security controls, encryption, and enterprise access enforcement. The flashcards were more challenging than previous quizzes due to the requirement for memorization and direct recall, but this is strengthening foundational understanding needed for the SY0-701 exam.
