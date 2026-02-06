@@ -1,0 +1,57 @@
+✅ Day 79 Overall – Flashcards Day 2 (Security Architecture)
+CompTIA Security+ (SY0-701) Practice Notes Summary
+
+Today I completed Day 2 of flashcard practice (20 questions) focused on Security Architecture concepts. These flashcards were more difficult than previous quizzes due to the need for memorization and exact definitions, but they reinforced key infrastructure and network security fundamentals.
+
+Key Topics Reviewed
+Security Architecture & Infrastructure
+
+A hot site is a fully functional backup site with hardware and systems ready to run immediately (24/7 availability).
+
+Hybrid cloud combines on-prem infrastructure with cloud services, balancing flexibility, scalability, and cost.
+
+Network Design & Segmentation
+
+Physical isolation separates systems using physical hardware barriers.
+
+Logical isolation separates systems using network segmentation tools such as VLANs.
+
+A jump server provides controlled access between secure zones and helps limit direct access to internal resources.
+
+Software Defined Networking (SDN)
+
+SDN uses software-based control instead of hardware-based routing to manage traffic and network rules.
+
+SDN allows centralized management of network traffic and improves flexibility.
+
+Intrusion Detection vs Prevention
+
+IPS (Intrusion Prevention System) actively blocks threats and must be placed inline with traffic flow.
+
+IDS (Intrusion Detection System) monitors traffic passively and detects anomalies but does not block.
+
+Infrastructure as Code (IaC)
+
+IaC manages infrastructure using scripts/code, allowing automated deployment, configuration, and scalability.
+
+Cloud Shared Responsibility
+
+A responsibility matrix defines which security duties belong to the cloud provider versus the customer.
+
+Fail Open vs Fail Closed
+
+Fail-open allows traffic through if a failure occurs.
+
+Fail-closed blocks all traffic if a failure occurs (more secure but can disrupt availability).
+
+Modern Architecture Concepts
+
+Microservices break applications into smaller independent functions, allowing easier updates without affecting the entire system.
+
+Serverless architecture reduces infrastructure management responsibilities for developers.
+
+Security Tools
+
+A load balancer distributes traffic across multiple servers to improve performance and reliability.
+
+VPNs create encrypted tunnels for secure communication across untrusted networks.
