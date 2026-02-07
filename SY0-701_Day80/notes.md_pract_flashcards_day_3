@@ -1,0 +1,50 @@
+Day 80 Overall – Day 3 Flashcards (Security Operations)
+GitHub Upload Summary (README / Notes Summary)
+
+Day 80 – CompTIA Security+ (SY0-701) Flashcards Practice – Security Operations
+
+Today I completed Day 3 of flashcard practice, focusing on Security Operations concepts. I reviewed approximately 20 flashcards and wrote down definitions and key takeaways to reinforce recall-based learning.
+
+Key Topics Reviewed
+
+OSINT (Open Source Intelligence): Gathering threat intelligence from publicly available sources.
+
+Dark Web: A hidden part of the internet often associated with criminal marketplaces and threat actor activity.
+
+False Negatives: When a system fails to detect a real threat and incorrectly reports no issue.
+
+MFA Factors: Authentication methods based on something you know, have, or are.
+
+DLP (Data Loss Prevention): Tools and policies used to prevent unauthorized sharing or leakage of sensitive data.
+
+Input Validation: Used to reduce risks like injection attacks and XSS by filtering and sanitizing user input.
+
+COPE (Corporate-Owned Personally Enabled): Company-managed devices that allow limited personal use.
+
+Signature-Based Detection: Detecting threats using known patterns or malicious signatures.
+
+Data Sanitization: Permanently destroying or wiping data so it cannot be recovered.
+
+Network Logs: Monitoring traffic and device activity through routers, switches, and packet captures.
+
+MDM (Mobile Device Management): Managing and enforcing security policies on mobile devices.
+
+SIEM (Security Information and Event Management): Aggregating logs and alerts into a centralized monitoring system.
+
+Tabletop Exercises: Simulated security incident scenarios used to test response planning.
+
+Data Retention Policies: Defines how long data must be stored based on legal/compliance needs.
+
+Static Code Analysis: Reviewing source code for vulnerabilities without running the program.
+
+WPA3: Wireless security improvement using SAE authentication to resist brute-force attacks.
+
+Defense in Depth: Layered security approach to reduce the impact of threats.
+
+Switch Hardening: Reducing attack surface by disabling unused ports, applying security configs, and monitoring activity.
+
+Sandboxing: Running applications in isolated environments to prevent system-wide compromise.
+
+Reflection
+
+Flashcards required deeper recall compared to quizzes, but they highlighted areas where definitions and terminology need reinforcement. This practice strengthens long-term memory and supports exam readiness.
