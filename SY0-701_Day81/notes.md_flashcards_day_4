@@ -1,0 +1,72 @@
+Day 81 Summary (Security+ Flashcards – Program Management & Oversight)
+
+Today I completed 20 flashcards focused on Security Program Management and Oversight concepts. The session covered risk management, governance models, compliance, auditing, and incident response planning.
+
+Key Concepts Reviewed
+Security Playbooks
+
+Reviewed how playbooks act as step-by-step guides for responding to incidents and ensuring consistent response procedures.
+
+Risk Management Approaches
+
+Risk Avoidance: eliminating risk by not proceeding with an activity.
+
+Qualitative Risk Assessment: subjective evaluation based on judgment and experience.
+
+Quantitative Risk Assessment: uses numerical values and calculations to estimate impact.
+
+Loss Expectancy Formulas
+
+SLE (Single Loss Expectancy) = Asset Value (AV) × Exposure Factor (EF)
+
+ALE (Annual Loss Expectancy) = SLE × Annual Rate of Occurrence (ARO)
+
+Exposure Factor (EF) represents the percentage of loss expected from a single incident.
+
+Recovery Planning
+
+RTO (Recovery Time Objective): maximum acceptable downtime.
+
+RPO (Recovery Point Objective): maximum acceptable amount of data loss.
+
+Risk Register
+
+Studied how risk registers track identified risks, their likelihood, impact, and planned mitigation responses.
+
+Compliance and Reporting
+
+Reviewed how compliance reporting increases transparency and demonstrates adherence to internal and external security standards.
+
+Compliance Attestation: formal statement verifying compliance requirements are met.
+
+Service Level Agreements (SLA)
+
+SLA defines expected service performance and outlines consequences if performance requirements are not met.
+
+Memorandum of Understanding (MOU)
+
+Learned that an MOU outlines expectations between parties but is not legally binding.
+
+Training & Security Awareness
+
+Reviewed phishing simulations as a key training method for improving employee security awareness.
+
+Independent Audits
+
+Covered how external third-party audits verify compliance and strengthen credibility.
+
+Change Management Policies
+
+Studied how change management reduces operational and cybersecurity risk by ensuring changes are documented, reviewed, and controlled.
+
+Incident Response Plan (IRP)
+
+Reviewed how IRPs define steps for managing cybersecurity incidents from detection to lessons learned.
+
+Ad Hoc Assessments
+
+Learned how ad hoc assessments provide rapid evaluation when unexpected risk situations occur.
+
+Governance Models
+
+Centralized governance model: decision-making occurs at the top, ensuring consistent policies across the organization.
