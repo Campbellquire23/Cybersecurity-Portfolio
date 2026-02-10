@@ -1,0 +1,55 @@
+Day 82 Notes (Flashcards) – Threats, Vulnerabilities, & Mitigations
+
+Overall Day: 82
+Flashcards Day: 5
+Focus: Threats, Vulnerabilities, and Mitigations
+Study Set: 20 flashcards + definitions
+
+🔥 Key Topics Covered
+Threat Actor & Attack Types
+
+Trojan Horse: Malware disguised as legitimate software that provides attackers unauthorized access.
+
+Password Spraying: Attempts one common password across many usernames to avoid lockouts.
+
+Buffer Overflow Attack: Occurs when too much data is written into a memory space, allowing code execution.
+
+DDoS Attack: Distributed Denial of Service attack using many systems to overwhelm a target.
+
+Watchlist Attack: Attackers compromise commonly visited sites to infect users who visit them.
+
+Threat Actor Categories
+
+Hacktivist: Politically/ideologically motivated attacker trying to disrupt or expose information.
+
+Unskilled Attackers (Script Kiddies): Low-skill attackers using pre-made tools/scripts.
+
+APTs (Advanced Persistent Threats): Long-term, well-funded (often nation-state) attackers targeting systems for espionage or sabotage.
+
+Criminal Syndicates: Organized cybercrime groups that conduct advanced attacks for profit.
+
+Vulnerability Concepts
+
+Zero-Day Threats: Unknown/unpatched vulnerabilities that attackers exploit before a fix exists.
+
+Legacy Systems: Older systems no longer receiving updates, making them vulnerable.
+
+DNS Cache Poisoning: Attack modifies DNS cache to redirect users to malicious sites.
+
+Supply Chain & Software Risks
+
+Side Loading: Installing unauthorized apps outside official distribution methods.
+
+Supply Chain Attacks: Attackers compromise vendors/providers, affecting multiple organizations.
+
+Exploitation Methods
+
+Race Condition (TOCTOU): Exploits timing gaps between security checks and use of resources.
+
+Image-Based Attacks: Malware hidden inside image files.
+
+Blackmail / Extortion: Threatening to release sensitive info unless demands are met.
+
+🧠 Quick Takeaway
+
+Today’s flashcards focused heavily on real-world cyber threats, threat actor classifications, and high-impact vulnerabilities like zero-days, buffer overflows, and DNS poisoning — which are core Security+ exam topics.
