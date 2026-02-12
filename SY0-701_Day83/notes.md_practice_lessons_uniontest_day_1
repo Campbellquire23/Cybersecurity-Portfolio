@@ -1,0 +1,88 @@
+✅ Day 83 Notes Summary (GitHub Upload)
+Day 83 Overview
+
+Today I completed Union Test Prep Practice Lessons (Walkthrough Style Questions) covering:
+
+Lesson 1: General Security Concepts (20 questions)
+
+Lesson 2: Security Architecture Concepts (continued notes)
+
+This session focused on reviewing key security definitions, encryption concepts, access control models, certificate validation, and infrastructure/security architecture fundamentals.
+
+Key Topics Covered
+CIA Triad
+
+Confidentiality ensures only authorized access to information.
+
+Integrity ensures data is accurate and not altered improperly.
+
+Availability ensures systems/data are accessible when needed.
+
+Honeypots
+
+Honeypots are systems designed to attract attackers.
+
+Used to study attacker behavior and detect malicious activity.
+
+Certificate Revocation + Trust Validation
+
+A CRL (Certificate Revocation List) is a list of certificates revoked by a Certificate Authority (CA).
+
+Used when certificates should no longer be trusted before expiration.
+
+Encryption Levels
+
+Reviewed differences between encryption types:
+
+Full Disk Encryption (FDE): encrypts the entire drive.
+
+File Encryption: encrypts individual files.
+
+Partition Encryption: encrypts a section of the disk.
+
+Self-Signed Certificates
+
+Created without a trusted 3rd-party CA.
+
+Useful in internal environments but not trusted publicly by default.
+
+Data Protection Techniques
+
+Data Masking: hides sensitive data fields while keeping format usable.
+
+Tokenization: replaces sensitive values with a unique identifier stored in a lookup table.
+
+Encryption: uses algorithms to protect data confidentiality.
+
+Security Architecture Concepts (Lesson 2)
+Failure Modes
+
+Fail-open: allows traffic through during failure.
+
+Fail-closed: blocks traffic during failure (more secure).
+
+Load Balancers
+
+Distribute traffic across multiple systems.
+
+Improve reliability, performance, and reduce strain on single devices.
+
+Unified Threat Management (UTM)
+
+Combines multiple security tools into one system:
+
+Firewall
+
+VPN
+
+IDS/IPS
+
+DLP
+
+Centralized security control and monitoring.
+
+📌 Progress Notes
+
+Union Test Prep walkthrough lessons helped reinforce major Security+ concepts and definitions, especially in encryption, certificates, and security infrastructure design.
+
+Tomorrow’s plan is to complete Lesson 3: Security Operations (20 walkthrough questions).
