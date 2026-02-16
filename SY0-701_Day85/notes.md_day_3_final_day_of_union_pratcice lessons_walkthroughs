@@ -1,0 +1,32 @@
+GitHub Summary (Day 85)
+
+Day 85 Overall – Union Test Prep Walkthroughs (Day 3)
+Today I completed Day 3 of Union Test Prep practice lesson walkthroughs, focused on Threats, Vulnerabilities, and Mitigations through a 20-question guided activity.
+
+Topics Covered:
+
+Birthday attack (hash collision probability concept)
+
+SQL injection and how attackers exploit input fields to manipulate databases
+
+Race conditions / TOCTOU (Time-of-check to time-of-use) vulnerabilities
+
+DNS poisoning and redirecting users to malicious destinations
+
+Impersonation & social engineering tactics
+
+VM escape and how attackers can break out of a virtual machine environment
+
+Side-loading (installing unauthorized apps outside official distribution methods)
+
+Ransomware and its impact through encryption/extortion
+
+Amplified DDoS attacks using smaller queries to generate massive traffic responses
+
+Privilege escalation to gain higher access (root/admin)
+
+Password spraying and its difference from brute force methods
+
+Progress Notes:
+
+This walkthrough reinforced real-world threat concepts and attack methods. Next step is transitioning into higher-volume practice testing using ExamCompass quizzes (25 questions each) to improve accuracy and exam readiness.
