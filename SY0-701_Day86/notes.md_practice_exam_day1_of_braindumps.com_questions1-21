@@ -1,0 +1,36 @@
+✅ GitHub Summary (Day 86)
+
+Day 86 Overall – Security+ (SY0-701) Practice Quiz (Day 1)
+Today I completed Day 1 of Security+ SY0-701 practice quizzes, working through 20 practice questions using a new quiz resource site (FreeBrainDumps). This session was focused on reinforcing core exam concepts by identifying correct answers and reviewing definitions tied to security monitoring, threat detection, mitigation techniques, and infrastructure security.
+
+Topics Covered:
+
+IPS (Intrusion Prevention System) and how it identifies threats using defined signatures
+
+Security automation and automated response actions in incident response workflows
+
+SIEM systems and the role of centralized logging/monitoring
+
+Deterrent vs. detective security controls
+
+Scripting (PowerShell / Bash) as a common tool in automation and cybersecurity tasks
+
+False positives and their impact on vulnerability scanning and alert accuracy
+
+Port security as a mitigation method for limiting unauthorized device access
+
+Jailbreaking risks and how it affects mobile device security posture
+
+Incident response “lessons learned” phase
+
+Vulnerability scanning and identifying outdated/legacy systems
+
+VPN usage for secure remote access and encrypted communication
+
+Unified Threat Management (UTM) for combining multiple security controls
+
+Containerization and its benefits for system architecture and workload efficiency
+
+Progress Notes:
+
+This quiz session helped reinforce foundational Security+ concepts while building repetition with exam-style questions. Moving forward, continued practice quizzes will be used to improve speed, accuracy, and familiarity with exam terminology.
