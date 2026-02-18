@@ -1,0 +1,32 @@
+GitHub Summary (Day 87)
+
+Day 87 Overall – Security+ SY0-701 FreeBrainDumps Practice Exam (Day 2)
+Today I completed Day 2 of the FreeBrainDumps Security+ SY0-701 practice exam, covering questions 21–40. This session focused heavily on identity and access management, monitoring/detection techniques, and governance concepts used in enterprise cybersecurity environments.
+
+Topics Covered:
+
+AAA authentication framework (Authentication, Authorization, Accounting)
+
+RADIUS server functionality for centralized authentication
+
+Version control and why it supports integrity, traceability, and auditability
+
+Red team testing to identify exploitable vulnerabilities in systems
+
+Trusted devices and authentication tied to endpoint trust
+
+Honeypots vs. honeynets and detection of attacker activity
+
+DNS sinkholes for disrupting malicious outbound DNS traffic
+
+Hashing for verifying file integrity and preventing tampering
+
+SAML (Security Assertion Markup Language) and its role in SSO
+
+On-path / MITM attacks and interception of communications
+
+Residual risk and how it remains after controls are implemented
+
+Progress Notes:
+
+This practice set reinforced key Security+ terms and definitions, especially around authentication services and threat detection strategies. Continued repetition through large-scale question banks will help improve accuracy and long-term recall.
