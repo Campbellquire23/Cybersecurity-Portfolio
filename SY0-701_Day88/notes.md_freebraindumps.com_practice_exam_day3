@@ -1,0 +1,69 @@
+✅ GitHub Summary (Day 88)
+
+Day 88 Overall – SY0-701 FreeBrainDumps Practice Exam (Day 3)
+Completed questions 40–55 of the FreeBrainDumps Security+ practice exam. Focused primarily on email security, cryptography usage, access control models, digital forensics concepts, and cloud-related governance risks.
+
+🔎 Topics Reviewed
+📧 Email & DNS Security
+
+DNS sinkholes to redirect malicious traffic to controlled servers
+
+S/MIME security and digital signatures
+
+Asymmetric cryptography for non-repudiation
+
+Sender signs with private key
+
+Recipient verifies with public key
+
+🔐 Cryptography & Performance
+
+Resource constraints in IoT devices
+
+Limited CPU, memory, battery
+
+Lightweight cryptographic algorithms are preferred
+
+🌐 Network Access & Authentication
+
+Captive portals
+
+Redirect users to authentication page before internet access
+
+Common in hotels, airports, cafes
+
+Public Wi-Fi risks
+
+Often require credential-based authentication
+
+Acceptable Use Policy (AUP) acknowledgement
+
+🧠 Digital Forensics
+
+RAM is volatile
+
+Must collect volatile memory first during investigations
+
+Importance of preserving evidence in proper order
+
+🛡 Governance & Risk Management
+
+Segregation (Separation) of Duties
+
+Prevents fraud/errors by distributing critical responsibilities
+
+Code repositories as breach sources
+
+Misconfigurations in cloud environments
+
+Credential exposure risks
+
+📌 Key Learning Points
+
+Non-repudiation relies on asymmetric encryption.
+
+IoT cryptography must consider hardware limitations.
+
+Forensics prioritizes volatile data collection.
+
+Cloud misconfigurations and exposed repositories are major risk vectors.
