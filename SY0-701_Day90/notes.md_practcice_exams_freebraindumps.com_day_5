@@ -1,0 +1,81 @@
+✅ GitHub Summary (Day 90)
+
+Day 90 Overall – SY0-701 FreeBrainDumps Practice Exam (Day 5)
+Completed questions 70–80 of the FreeBrainDumps Security+ SY0-701 practice exam. This session emphasized privileged access management, access control enforcement, digital signing, monitoring/detection mechanisms, and operational risk management.
+
+🔎 Topics Reviewed
+🔐 Privileged Access & Identity Security
+
+Privileged Access Management (PAM)
+
+Secures high-level accounts (admins, consultants, domain accounts)
+
+Includes password rotation, session monitoring, JIT access, credential vaulting
+
+Helps mitigate “living off the land” techniques
+
+Data Owner Responsibilities
+
+Identifies risks
+
+Determines appropriate access levels
+
+Ensures data protection policies are enforced
+
+🌐 Access Control & User Accountability
+
+Captive Portals
+
+Require users to accept terms (AUP) before access
+
+Provides legal acknowledgment and liability mitigation
+
+Enforces authentication and access control
+
+Access Control Measures
+
+Prevent unauthorized access
+
+Address liability and misuse concerns
+
+👁 Monitoring & Detection
+
+Cameras, sensors, and lighting
+
+Used as deterrent and detection mechanisms
+
+Load balancers
+
+Ensure availability and accessibility during peak usage
+
+🔏 Software Integrity & Cryptography
+
+Code Signing
+
+Uses developer’s private key to create digital signature
+
+Generates cryptographic hash
+
+Allows users to verify authenticity and integrity
+
+⚠ Risk & Lifecycle Management
+
+Running unsupported or end-of-life applications
+
+Major risk due to lack of security patches
+
+Failure to apply security updates
+
+Increases exposure to known vulnerabilities
+
+📌 Key Reinforcement Areas
+
+PAM implementation strategies
+
+AUP and legal acknowledgment controls
+
+Code signing process and integrity validation
+
+Infrastructure availability planning
+
+Risk of unpatched and EOL systems
