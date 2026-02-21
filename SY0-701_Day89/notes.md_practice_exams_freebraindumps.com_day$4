@@ -1,0 +1,97 @@
+GitHub Summary (Day 89)
+
+Day 89 Overall – SY0-701 FreeBrainDumps Practice Exam (Day 4)
+Completed questions 55–75 of the FreeBrainDumps Security+ SY0-701 practice exam. This session focused on governance, authentication security, encryption protocols, vulnerability scanning, and networking technologies including VoIP.
+
+🔎 Topics Reviewed
+🏷 Data Governance & Classification
+
+Importance of data classification policies
+
+Enables organizations to apply security controls based on sensitivity levels
+
+🔍 Vulnerability Scanning & Threat Intelligence
+
+Non-credentialed scans identify publicly exposed vulnerabilities (open ports, services)
+
+MITRE ATT&CK framework
+
+Real-world adversary tactics, techniques, and procedures (TTPs)
+
+Used to map threats to mitigation strategies
+
+Nessus vulnerability scanner
+
+Identifies misconfigurations, insecure protocols, weak settings
+
+🌐 Secure Communications
+
+LDAP over SSL/TLS (LDAPS)
+
+Requires trusted certificate validation
+
+Self-signed/internal CA certificates must be trusted locally
+
+Telnet vs SSH
+
+Telnet = plaintext (insecure)
+
+SSH = encrypted secure replacement
+
+⚙ Architecture & Performance
+
+Switching from file-based transfers (SFTP) to API/microservices
+
+Improves scalability and real-time data processing
+
+Wildcards certificates
+
+Cost-effective for multiple subdomains
+
+Serverless architecture
+
+Cloud provider handles infrastructure
+
+Reduces overhead and deployment complexity
+
+🌍 Network & Protocol Concepts
+
+IPv6 tunneling / encapsulation (IPv6-in-IPv4)
+
+Bypasses some IPv4 security controls
+
+/etc/shadow permissions
+
+Stores hashed passwords
+
+Root-only access to prevent offline cracking
+
+RTP, SIP, SRTP
+
+Core VoIP protocols
+
+SIP = session control
+
+RTP = media transport
+
+SRTP = encrypted RTP
+
+⚖ Risk & Compliance
+
+GDPR rights
+
+Right of access
+
+Right to be forgotten
+
+📌 Key Reinforcement Areas
+
+Certificate trust chains
+
+Secure protocol replacements (Telnet → SSH)
+
+IPv6 tunneling security implications
+
+VoIP protocol stack
+
+File permission hardening
