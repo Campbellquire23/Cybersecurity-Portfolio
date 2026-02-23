@@ -1,0 +1,97 @@
+itHub Summary (Day 91)
+
+Day 91 Overall – SY0-701 FreeBrainDumps Practice Exam (Day 6)
+Completed questions 80–90 of the FreeBrainDumps Security+ SY0-701 practice exam. Today’s session focused on packet analysis, application security testing, vulnerability scoring, post-exploitation techniques, DNS misconfigurations, and security frameworks.
+
+🔎 Topics Reviewed
+🧪 Network Analysis & Packet Inspection
+
+Wireshark
+
+Used for real-time packet capture and analysis
+
+Detects plaintext credential transmission
+
+Validates whether sensitive data is exposed on the network
+
+🛠 Application Security Testing
+
+Fuzzing
+
+Automated testing using invalid/random inputs
+
+Identifies crashes, logic errors, and exploitable vulnerabilities
+
+OWASP
+
+Web application security standards
+
+OWASP Top 10 (e.g., injection, broken access control, etc.)
+
+📊 Risk & Vulnerability Assessment
+
+CVSS
+
+Used to score severity of vulnerabilities
+
+Change Management
+
+Structured process for addressing design flaws
+
+Includes review, impact analysis, rollback planning, stakeholder communication
+
+🧠 Post-Exploitation & Credential Attacks
+
+Mimikatz (Sekurlsa::pth)
+
+Extracts credentials from memory
+
+Supports Pass-the-Hash attacks
+
+NTLM Hash
+
+Can be reused for authentication without cracking password
+
+🌐 DNS & Network Footprinting
+
+AXFR (Zone Transfer)
+
+Used for DNS replication between servers
+
+If misconfigured, attackers can retrieve full DNS record lists
+
+DNS misconfigurations can expose:
+
+Hostnames
+
+Subdomains
+
+Internal IP addressing schemes
+
+🔐 Defensive Monitoring & Architecture
+
+WAF
+
+Protects against application-layer attacks (SQLi, XSS)
+
+NIPS
+
+Detects and blocks malicious network traffic patterns
+
+Conditional Access Policies
+
+Used in Azure/Entra ID environments
+
+Enforce zero-trust access decisions
+
+📌 Key Reinforcement Areas
+
+Packet inspection for plaintext credential exposure
+
+Pass-the-Hash mechanics
+
+DNS zone transfer exploitation risks
+
+Application-layer vs network-layer protection differences
+
+Vulnerability scoring interpretation
