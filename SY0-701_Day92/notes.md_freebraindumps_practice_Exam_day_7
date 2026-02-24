@@ -1,0 +1,89 @@
+✅ GitHub Summary (Day 92)
+
+Day 92 Overall – SY0-701 FreeBrainDumps Practice Exam (Day 7)
+Completed questions 90–100 of the FreeBrainDumps Security+ SY0-701 practice exam. Although only 10 questions were completed, this session focused on in-depth analysis of security architecture, monitoring models, secure coding practices, supply chain risks, and vendor governance.
+
+🔎 Topics Reviewed
+🧹 Asset & Device Management
+
+Decommissioning
+
+Best action for numerous unused/non-compliant endpoints
+
+Sanitization
+
+Secure removal of data from storage devices
+
+Maintains hardware usability while protecting sensitive data
+
+🔐 Authentication & Access Security
+
+TOTP (Time-Based One-Time Password)
+
+Changes every 30–60 seconds
+
+Combines secret key + current time
+
+Does not require network connectivity
+
+Widely supported across platforms
+
+🔗 Supply Chain Security
+
+Supply Chain Attacks
+
+Occur when trusted third-party software/vendor is compromised
+
+Can inject malicious updates into environments
+
+Illumination Tools
+
+Map supply chain vendors, dependencies, and locations
+
+Identify single points of failure and hidden risks
+
+💻 Web & Application Security
+
+Web Shell
+
+Malicious script uploaded to a web server
+
+Provides remote administration capabilities to attackers
+
+Often connects outbound to suspicious IP addresses or ports
+
+📡 Monitoring & Security Testing
+
+Agentless Monitoring
+
+Collects endpoint data without installing software agents
+
+Uses built-in protocols (SSH, WMI, SNMP, APIs)
+
+Static Analysis (SAST)
+
+Examines source code without executing it
+
+Identifies flaws early in development
+
+Detects hardcoded credentials and insecure logic
+
+📑 Governance & Legal Controls
+
+NDA (Non-Disclosure Agreement)
+
+Limits disclosure of sensitive information
+
+Used in vendor and external business relationships
+
+📌 Key Reinforcement Areas
+
+Data lifecycle management (sanitization vs decommissioning)
+
+MFA implementation (TOTP mechanics)
+
+Supply chain mapping and third-party risk
+
+Static code analysis vs runtime testing
+
+Web shell indicators and detection
