@@ -1,0 +1,106 @@
+Day 93 Overall – SY0-701 FreeBrainDumps Practice Exam (Day 8)
+Completed questions 100–110 of the FreeBrainDumps Security+ SY0-701 practice exam. Today’s session focused heavily on governance controls, identity management, application security, failover testing, encryption standards, and vendor risk evaluation.
+
+🔎 Topics Reviewed
+🏢 Vendor & Risk Management
+
+SOC 2 Reports
+
+Used during third-party due diligence
+
+Verify vendor security controls before contracting
+
+Data Masking
+
+Conceals sensitive data (e.g., credit card numbers) in databases
+
+🌐 Web & Application Security
+
+WAF (Web Application Firewall)
+
+Operates at Layer 7 (Application Layer)
+
+Inspects HTTP/S traffic
+
+Protects against SQL injection, XSS, and other web-based attacks
+
+Branch Protection Requirements
+
+Enforce rules in version control systems
+
+Critical in the SDLC to maintain code integrity and quality
+
+📑 Governance & Administrative Controls
+
+Acceptable Use Policy (AUP)
+
+High-level managerial control
+
+Defines rules and guidelines for IT resource usage
+
+Focuses on behavior and oversight rather than technical enforcement
+
+🔐 Identity & Access Management
+
+SSO / Federated Identity
+
+Reduces credential sprawl across SaaS apps
+
+IdP (Identity Provider)
+
+Central authority managing user authentication
+
+Essential first component in federated identity solutions
+
+💣 Malicious Code & Detection
+
+Logic Bomb Example
+
+Date-triggered malicious action
+
+Example: IF DATE(...) THEN DROP DATABASE
+
+Reviewing WAF logs helps:
+
+Identify attack vector (SQLi, command injection, etc.)
+
+Distinguish threat vs vulnerability
+
+🔄 Resiliency & Disaster Recovery
+
+Production Failover (Live Failover)
+
+Most realistic resiliency test
+
+Forces backup systems to handle live production load
+
+Validates:
+
+RTO (Recovery Time Objective)
+
+RPO (Recovery Point Objective)
+
+🔒 Encryption & Secure Transport
+
+TLS 1.3
+
+Best practice for protecting data in transit
+
+Provides encryption, authentication, integrity
+
+More comprehensive than standalone crypto algorithms
+
+📌 Key Reinforcement Areas
+
+Vendor due diligence using SOC 2
+
+Layer 7 protections (WAF vs traditional firewall)
+
+SDLC security controls
+
+Federated identity architecture
+
+Disaster recovery testing validation (RTO/RPO)
+
+Modern secure transport protocols (TLS 1.3)
+
