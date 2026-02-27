@@ -1,0 +1,101 @@
+Day 94 Overall – SY0-701 FreeBrainDumps Practice Exam (Day 9)
+Completed questions 110–120 with detailed notes, mistake review, and in-depth conceptual reinforcement. Today’s focus centered on reconnaissance methods, organizational risk management foundations, secure network protocols, vulnerability management workflow, and cloud escape risks.
+
+🔎 Topics Reviewed
+🕵️ Reconnaissance & Threat Actors
+
+OSINT (Open-Source Intelligence)
+
+Passive reconnaissance method
+
+Gathers publicly available information (websites, public records, social media)
+
+Does not directly interact with target systems
+
+Organized Crime Groups
+
+Primarily financially motivated
+
+Often leverage ransomware and extortion-based attacks
+
+🛠 Operational Security & Maintenance
+
+Maintenance Windows
+
+Scheduled time periods for system updates, patches, or changes
+
+Reduce operational disruption
+
+Can cause temporary service downtime
+
+Network Outages
+
+Occur when services are unavailable
+
+Directly impact users and operations
+
+🔐 Secure Communication Protocols
+
+IPsec
+
+Suite of protocols providing authentication and encryption at the network layer
+
+Secures IP packets
+
+Ensures confidentiality, integrity, and authenticity
+
+Used in VPNs and private cloud communication
+
+🏢 Governance & Risk Management
+
+Policies & Procedures
+
+Foundation of an organization’s risk management program
+
+Define framework for identifying, assessing, and mitigating risk
+
+Internal Audits
+
+Should review policies and procedures first
+
+Validate compliance with risk management framework
+
+🧪 Vulnerability Management
+
+Reporting
+
+Communicates findings to stakeholders
+
+Documents discovered vulnerabilities
+
+Prioritization
+
+Ranks vulnerabilities by severity, exploitability, and impact
+
+Ensures most critical risks are addressed first
+
+☁️ Cloud Security Risks
+
+VM Escape
+
+Critical cloud vulnerability
+
+Occurs when an attacker breaks out of a virtual machine
+
+Gains access to host system or other VMs
+
+Represents significant infrastructure-wide risk
+
+📌 Reinforced Concepts
+
+Passive vs active reconnaissance
+
+Financial motivations of cybercriminal groups
+
+Network-layer encryption (IPsec)
+
+Risk management structure (policy → procedure → audit)
+
+Vulnerability lifecycle (identify → report → prioritize → remediate)
+
+Virtualization security boundaries
