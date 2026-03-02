@@ -1,0 +1,117 @@
+GitHub Summary (Day 95)
+
+Day 95 Overall – SY0-701 FreeBrainDumps Practice Exam (Day 10)
+Completed questions 120–130 with comprehensive notes, mistake review, and deeper conceptual breakdowns. Focus areas included data protection techniques, vendor diversity risk mitigation, application logging, containerization security, business impact analysis, vulnerability testing impact, and honeypot detection strategies.
+
+🔎 Topics Reviewed
+💳 Data Protection Techniques
+
+Tokenization
+
+Replaces sensitive data (e.g., credit card numbers) with non-sensitive tokens
+
+Actual sensitive data stored securely outside the transaction system
+
+Reduces breach exposure and PCI scope
+
+Vendor Diversity
+
+Using multiple vendors for similar services
+
+Reduces systemic risk from a single zero-day vulnerability
+
+Prevents single point of failure
+
+📊 Application Logging
+
+Application logs track:
+
+User transactions
+
+Actions taken
+
+Error events
+
+Critical for:
+
+Incident response
+
+Fraud detection
+
+Forensic investigations
+
+📦 Containerization Security
+
+Containers:
+
+Package only necessary components and dependencies
+
+Reduce OS footprint
+
+Minimize required patches
+
+Improve isolation
+
+Faster deployment and simpler update management compared to full OS environments
+
+📈 Business Impact Analysis (BIA)
+
+Identifies:
+
+Critical systems
+
+Acceptable downtime
+
+RTO (Recovery Time Objective)
+
+Supports:
+
+Continuity planning
+
+Resource allocation
+
+Recovery prioritization
+
+🧪 Vulnerability Assessments & Testing Impact
+
+Vulnerability scanning/testing may:
+
+Cause slowdowns
+
+Trigger outages
+
+Impact production systems
+
+Best practice:
+
+Schedule during low-impact windows
+
+Use precautions when testing live systems
+
+🍯 Honeypots
+
+Example: Creating fake sensitive file in /docs/salaries
+
+Used to detect:
+
+Unauthorized access attempts
+
+Insider threats
+
+Acts as early warning system
+
+📌 Reinforced Concepts
+
+Reducing breach impact via tokenization
+
+Risk distribution through vendor diversity
+
+Importance of logging for evidence and monitoring
+
+Container-based isolation vs full OS environments
+
+BIA’s role in disaster recovery planning
+
+Operational impact of vulnerability testing
+
+Insider detection techniques
