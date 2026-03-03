@@ -1,0 +1,117 @@
+✅ GitHub Summary (Day 96)
+
+Day 96 Overall – SY0-701 FreeBrainDumps Practice Exam (Day 11)
+Completed questions 130–140 with detailed review notes and concept explanations. Topics covered included encryption methods, intrusion prevention systems, backup power solutions, physical security controls, key management strategies, integrity verification techniques, virtualization benefits, incident response preparation, and regulatory compliance consequences.
+
+🔎 Topics Reviewed
+🔐 Data Encryption & Protection
+
+FDE (Full Disk Encryption)
+
+Encrypts the entire storage drive
+
+Protects data when a device is powered off or stolen
+
+Prevents unauthorized access to stored data
+
+Key Escrow
+
+Secure storage of encryption keys with a trusted third party
+
+Allows authorized entities to recover keys when necessary
+
+Ensures controlled access while maintaining security
+
+🚨 Intrusion Detection & Prevention
+
+NIPS (Network Intrusion Prevention System)
+
+Monitors network traffic in real time
+
+Detects and blocks malicious activity
+
+Can automatically stop threats rather than just alerting like IDS
+
+🔋 Resilience & Infrastructure
+
+UPS (Uninterruptible Power Supply)
+
+Provides short-term backup power
+
+Maintains system availability during power outages
+
+Allows safe shutdown or continued operation temporarily
+
+🏢 Physical Security Controls
+
+Cameras and Warning Signs
+
+Serve as both:
+
+Deterrent controls
+
+Detective controls
+
+Discourage malicious behavior and record activity
+
+📦 Integrity Verification
+
+File Hashing
+
+Used to verify that downloaded files have not been altered
+
+Hash values from the vendor are compared to downloaded files
+
+Ensures file integrity and authenticity
+
+🖥 Virtualization
+
+Allows multiple virtual machines (VMs) to run on a single physical server
+
+Benefits:
+
+Hardware efficiency
+
+Isolation between environments
+
+Reduced need for multiple physical servers
+
+🚑 Incident Response Preparation
+
+Tabletop Exercises
+
+Simulated security incident discussions
+
+Validate team roles and responsibilities
+
+Identify response gaps and improve procedures
+
+📜 Compliance & Regulatory Risk
+
+Failure to meet regulatory requirements
+
+May result in:
+
+Financial penalties
+
+Enforcement actions
+
+Compliance audits
+
+📌 Reinforced Concepts
+
+Encryption of data at rest
+
+Real-time intrusion prevention
+
+Backup power for operational continuity
+
+Layered physical security controls
+
+File integrity verification via hashing
+
+Virtualization benefits for infrastructure efficiency
+
+Incident response preparedness through tabletop exercises
+
+Consequences of regulatory noncompliance
