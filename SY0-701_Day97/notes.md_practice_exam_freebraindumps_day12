@@ -1,0 +1,93 @@
+Day 97 – SY0-701 Security+ Practice (FreeBrainDumps)
+Completed questions 143–150 with detailed notes and mistake analysis. Today's review focused on data classification controls, post-incident review processes, cryptographic weaknesses, physical security mechanisms, SOC operations, VPN encryption, behavioral analytics, auditing, and compliance consequences.
+
+Topics Reviewed
+Data Classification & Access Control
+
+Confidential data classification requires strict access controls to prevent unauthorized disclosure.
+
+Restricted data has the highest protection requirements and is limited to specifically authorized personnel.
+
+Post-Incident Review
+
+Conducted after a security incident to analyze the root cause.
+
+Focuses on:
+
+Lessons learned
+
+Identifying vulnerabilities
+
+Improving controls to prevent similar incidents in the future.
+
+Weak Cryptography Risks
+
+Weak cryptographic algorithms can allow attackers to crack passwords using:
+
+Brute-force attacks
+
+Dictionary attacks
+
+Strong modern encryption standards are required to protect sensitive data.
+
+Physical Security Controls
+
+Bollards act as physical barriers preventing unauthorized vehicle access.
+
+Used to protect facilities from vehicle-based attacks or accidental intrusion.
+
+Incident Response Tools
+
+Playbooks
+
+Provide step-by-step procedures for responding to specific security incidents.
+
+Used by SOC analysts for consistent response during active incidents.
+
+Secure Network Access
+
+IPsec
+
+Commonly used in remote-access VPNs.
+
+Creates encrypted tunnels between endpoints and networks.
+
+Provides confidentiality, integrity, and authentication.
+
+Behavioral Security Monitoring
+
+UEBA (User and Entity Behavior Analytics)
+
+Detects abnormal user activity.
+
+Identifies deviations from normal behavior patterns.
+
+Helps detect insider threats or compromised accounts.
+
+Security Auditing & Compliance
+
+SOC 2 Reports
+
+Third-party assessments of security controls performed by independent auditors.
+
+Provide assurance to clients about security practices.
+
+Activity Logging
+
+User activity logs
+
+Record actions such as login attempts and access attempts.
+
+Used to detect suspicious activity such as credential misuse or privilege escalation attempts.
+
+Compliance Consequences
+
+Non-compliance with standards like PCI DSS can lead to:
+
+Reputational damage
+
+Regulatory fines
+
+Contractual penalties
+
+Loss of payment processing privileges.
