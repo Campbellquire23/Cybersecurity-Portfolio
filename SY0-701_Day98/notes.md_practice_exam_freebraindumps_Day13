@@ -1,0 +1,103 @@
+Day 98 – SY0-701 Security+ Practice (FreeBrainDumps)
+Completed questions 150–160 with detailed notes and concept explanations. Today's study focused on input validation, certificate trust chains, SIEM functionality, gap analysis for compliance, secure file transfer protocols, OAuth authorization, social engineering risks, automation in security operations, and system resource constraints affecting performance.
+
+Topics Reviewed
+Input Validation & Application Security
+
+Input Sanitization
+
+Ensures user-supplied data is properly validated before processing
+
+Prevents malicious input such as command injection attacks
+
+Certificate Trust & PKI
+
+SSL/TLS certificates may fail validation if the issuing CA is not trusted.
+
+Installing the root or intermediate certificate allows the system/browser to verify the trust chain.
+
+Security Monitoring
+
+SIEM (Security Information and Event Management)
+
+Centralizes log collection, correlation, and analysis
+
+Provides real-time monitoring and alerting
+
+Helps identify security incidents across multiple systems
+
+Compliance & Risk Assessment
+
+Gap Analysis
+
+Identifies differences between current security practices and required standards
+
+Helps organizations prioritize changes needed to meet regulatory or security requirements
+
+Secure Data Transfer
+
+Standard FTP does not provide encryption.
+
+Secure alternatives include:
+
+FTPS
+
+SFTP
+
+These protocols encrypt data during transmission to prevent interception.
+
+Authentication vs Authorization
+
+OAuth
+
+Designed for authorization, not authentication
+
+Uses tokens to grant applications limited access to resources on behalf of users
+
+Commonly used for SSO and API access.
+
+Social Engineering Threats
+
+Phishing
+
+A common tactic attackers use to obtain login credentials or sensitive information.
+
+Security Operations Efficiency
+
+Automation
+
+Reduces repetitive security tasks
+
+Improves response time and efficiency for security teams
+
+Allows analysts to focus on higher-priority investigations.
+
+Performance & Resource Monitoring
+
+High resource usage (e.g., CPU near 99% or memory near capacity) can cause:
+
+System slowdowns
+
+Application instability
+
+Delayed processing of requests.
+
+Key Concepts Reinforced
+
+Secure coding practices
+
+Certificate trust relationships
+
+Log aggregation and monitoring
+
+Compliance preparation
+
+Secure file transfer
+
+Authorization frameworks
+
+Social engineering awareness
+
+Security operations automation
+
+System resource limitations
