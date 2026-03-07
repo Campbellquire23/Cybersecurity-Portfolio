@@ -1,0 +1,107 @@
+GitHub Summary
+
+Day 99 – SY0-701 Security+ Practice (FreeBrainDumps)
+Completed questions 160–170 with detailed explanations and mistake review. Today's topics focused on data states, cloud-native architectures, network access control, application security vulnerabilities, endpoint web filtering, SIEM analysis, firewall monitoring, activity accounting, mobile device management, and data governance responsibilities.
+
+Topics Reviewed
+Data Security States
+
+Data in Use
+
+Refers to data actively being processed by applications or systems (e.g., databases or running applications).
+
+Cloud-Native Architecture
+
+Cloud-native applications are designed for scalability, resilience, and distributed infrastructure.
+
+Systems may use failover and load balancing across multiple geographic regions to maintain high availability.
+
+Network Access Control
+
+NAC (Network Access Control)
+
+Enforces security policies on devices attempting to access the network.
+
+Often used for wired and wireless access control.
+
+Web Application Vulnerabilities
+
+Cross-Site Scripting (XSS)
+
+Occurs when malicious scripts are injected into trusted web applications.
+
+Can allow attackers to execute scripts in a user’s browser session.
+
+Endpoint Web Filtering
+
+Agent-based filtering
+
+Installs a software agent on endpoints.
+
+Allows filtering policies to apply regardless of device location (on or off the network).
+
+Security Monitoring
+
+SIEM
+
+Aggregates and analyzes logs from multiple systems.
+
+Used to detect anomalies and security incidents.
+
+Network Protection
+
+Firewalls
+
+Monitor and control incoming and outgoing network traffic.
+
+Apply predefined security rules to allow or block communications.
+
+Activity Accounting
+
+Tracks user activities such as:
+
+Logins
+
+Resource usage
+
+File access
+
+Supports auditing, billing, and security monitoring.
+
+Mobile Device Management
+
+MDM
+
+Allows organizations to monitor, secure, and manage mobile devices remotely.
+
+Enforces policies for employee devices accessing company data.
+
+Data Governance Roles
+
+Data Custodian
+
+Responsible for implementing and maintaining data protection policies.
+
+Manages technical controls such as storage, access, and maintenance according to organizational policies.
+
+Key Concepts Reinforced
+
+Data lifecycle protection
+
+Cloud resilience and scalability
+
+Network access enforcement
+
+Web application attack vectors
+
+Endpoint protection strategies
+
+Centralized security monitoring
+
+Network traffic control
+
+User activity auditing
+
+Mobile device security management
+
+Data governance responsibilities
