@@ -1,0 +1,115 @@
+Day 100 – SY0-701 Security+ Practice (FreeBrainDumps)
+Completed questions 170–180 with detailed notes and mistake review. Today's study focused on DNS filtering, data protection controls, symmetric encryption efficiency, TLS secure communications, SIEM log correlation, SASE architecture, disaster recovery testing, memory injection attacks, permission controls, and independent security audits.
+
+Topics Reviewed
+DNS Security
+
+DNS filtering
+
+Prevents access to malicious or unsafe domains.
+
+Protects users from phishing, malware distribution sites, and command-and-control servers.
+
+Data Protection & Access Control
+
+Access control policies ensure that only authorized personnel can access sensitive information.
+
+Critical for protecting confidential and protected data.
+
+Encryption Methods
+
+Symmetric Encryption
+
+Uses the same key for encryption and decryption.
+
+Faster and more efficient than asymmetric encryption.
+
+Often used for bulk data encryption.
+
+Secure Communications
+
+TLS (Transport Layer Security)
+
+Encrypts data transmitted across networks.
+
+Provides:
+
+Confidentiality
+
+Integrity
+
+Authentication.
+
+Log Analysis
+
+Log Correlation
+
+Combines and analyzes logs from multiple sources.
+
+Helps identify patterns and security incidents that may not be visible in isolated logs.
+
+Cloud Security Architecture
+
+SASE (Secure Access Service Edge)
+
+Integrates networking and security services.
+
+Includes capabilities such as:
+
+VPN
+
+Secure web gateways
+
+Firewall services
+
+Zero trust network access.
+
+Disaster Recovery
+
+Simulated Failover Testing
+
+Tests system resilience and disaster recovery capabilities.
+
+Ensures services can continue operating during outages.
+
+Malware Techniques
+
+Memory Injection
+
+Allows malicious code to execute in memory.
+
+Often bypasses traditional file-based detection mechanisms.
+
+Least Privilege
+
+Implementing strict permission controls ensures users only access resources necessary for their role.
+
+Security Auditing
+
+Independent Security Audits
+
+Provide an unbiased evaluation of security controls.
+
+Often result in formal reports such as SOC reports to demonstrate control effectiveness.
+
+Key Concepts Reinforced
+
+DNS threat prevention
+
+Data confidentiality controls
+
+Efficient encryption techniques
+
+Secure network communication
+
+Centralized log analysis
+
+Modern cloud security architecture
+
+Disaster recovery validation
+
+Advanced malware techniques
+
+Principle of least privilege
+
+Independent security verification
