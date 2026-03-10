@@ -1,0 +1,91 @@
+Day 101 – SY0-701 Security+ Practice (FreeBrainDumps)
+Completed questions 183–190 with detailed notes, concept explanations, and mistake review. Topics included network segmentation security zones, data obfuscation and masking techniques, container/VM escape attacks, tailgating social engineering attacks, SIEM log correlation, vulnerability prioritization using CVSS scoring, behavioral analytics for insider threat detection, vishing attacks, and firewall log analysis for identifying command-and-control (C2) traffic.
+
+Study streak note: This entry concludes the study sessions before a short break for travel to Las Vegas, with plans to resume reviewing practice material after returning.
+
+Topics Reviewed
+Network Segmentation
+
+Jump Hosts / Security Zones
+
+Used to control administrative access to sensitive environments.
+
+Reduces exposure by isolating internal systems from direct external access.
+
+Data Protection Techniques
+
+Data Masking / Obfuscation
+
+Protects sensitive data by replacing real values with altered data.
+
+Prevents exposure of personally identifiable information.
+
+Virtualization Security
+
+Escape to Host Attacks
+
+Occur when attackers break out of a VM or container environment.
+
+Allows access to the underlying host system.
+
+Social Engineering Threats
+
+Tailgating
+
+Unauthorized individual gains access by following an authorized user into a restricted area.
+
+Vishing
+
+Voice-based phishing attack conducted via phone calls.
+
+Attackers impersonate trusted entities to obtain sensitive information.
+
+Security Monitoring
+
+SIEM
+
+Aggregates and correlates logs from multiple sources.
+
+Improves visibility into security events and potential incidents.
+
+Vulnerability Prioritization
+
+CVSS (Common Vulnerability Scoring System)
+
+Provides standardized vulnerability severity scoring.
+
+Helps organizations prioritize remediation based on impact and exploitability.
+
+Insider Threat Detection
+
+Behavioral Analytics
+
+Monitors user behavior patterns.
+
+Detects deviations that may indicate malicious or compromised insider activity.
+
+Network Traffic Monitoring
+
+Firewall Logs
+
+Track inbound and outbound traffic.
+
+Useful for identifying command-and-control communication attempts from compromised devices.
+
+Key Concepts Reinforced
+
+Segmented network architecture
+
+Data protection and privacy controls
+
+Virtualization attack vectors
+
+Social engineering techniques
+
+Log aggregation and event correlation
+
+Risk-based vulnerability management
+
+Insider threat detection methods
+
+Command-and-control traffic identification
