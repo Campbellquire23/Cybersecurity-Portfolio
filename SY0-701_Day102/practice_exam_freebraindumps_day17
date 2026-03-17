@@ -1,0 +1,107 @@
+Day 102 – SY0-701 Security+ Practice (FreeBrainDumps)
+Completed questions 190–200 with detailed notes, definitions, and mistake review. Topics included certificate trust issues, honeypots, tabletop exercises, certificate revocation lists (CRL), acceptable use policies (AUP), data sovereignty, web application protections, SIEM in cloud environments, malicious updates, and privileged access management (PAM).
+
+Topics Reviewed
+Certificate Trust & PKI
+
+Certificates must be issued by a trusted Certificate Authority (CA).
+
+Self-signed certificates can trigger security warnings due to lack of trust validation.
+
+CRL (Certificate Revocation List)
+
+Lists certificates that are no longer trusted.
+
+Ensures compromised or revoked certificates are not accepted.
+
+Deception Technologies
+
+Honeypots
+
+Decoy systems designed to attract attackers.
+
+Provide insight into attacker behavior without risking real systems.
+
+Incident Response Preparedness
+
+Tabletop Exercises
+
+Scenario-based discussions used to simulate incidents.
+
+Improve coordination, communication, and readiness of response teams.
+
+Security Policies
+
+AUP (Acceptable Use Policy)
+
+Defines proper and improper use of organizational systems.
+
+Sets behavioral expectations for users.
+
+Data Governance
+
+Data Sovereignty
+
+Data is subject to the laws of the country where it is stored.
+
+Important for compliance and regulatory requirements.
+
+Web Application Security
+
+Protection strategies include:
+
+Regular patching and updates
+
+Web Application Firewalls (WAF)
+
+Helps defend against attacks such as injection and exploitation.
+
+Security Monitoring (Cloud)
+
+SIEM
+
+Centralized logging and monitoring across cloud and on-prem systems
+
+Provides real-time alerts and analysis of security events
+
+Supply Chain / Update Risks
+
+Malicious Updates
+
+Attackers may compromise software updates to gain access.
+
+Requires validation and integrity checking of updates.
+
+Privileged Access Security
+
+PAM (Privileged Access Management)
+
+Controls access to high-level accounts
+
+Includes:
+
+Session monitoring
+
+Access control enforcement
+
+Ensures secure fallback access if SSO fails
+
+Key Concepts Reinforced
+
+Certificate trust validation
+
+Deception-based security
+
+Incident response planning
+
+Security policy enforcement
+
+Regulatory data considerations
+
+Web application defense
+
+Centralized monitoring
+
+Supply chain security risks
+
+Privileged account protection
