@@ -1,0 +1,115 @@
+Day 103 – SY0-701 Security+ Practice (FreeBrainDumps)
+Completed questions 200–210 with detailed notes, definitions, and mistake review. Topics included evidence preservation, firewall/network log analysis, rules of engagement, endpoint detection and response (EDR), data retention policies, memory injection risks, attacker motivations, email security scanning, incident response phases, and legacy system risk considerations.
+
+Topics Reviewed
+Digital Forensics
+
+Evidence Preservation
+
+Ensures integrity of evidence during investigations.
+
+Maintains proper chain of custody.
+
+Critical for legal admissibility and accurate analysis.
+
+Network Monitoring
+
+Firewall / Network Logs
+
+Identify suspicious outbound traffic.
+
+Help detect data exfiltration attempts.
+
+Allow analysts to trace destinations of compromised communications.
+
+Security Testing Governance
+
+Rules of Engagement (RoE)
+
+Define scope, boundaries, and acceptable actions during testing.
+
+Ensure ethical and controlled penetration testing activities.
+
+Endpoint Security
+
+EDR (Endpoint Detection and Response)
+
+Provides visibility into endpoint activity.
+
+Detects anomalies and deviations from normal behavior.
+
+Enables rapid response to threats.
+
+Data Governance
+
+Data Retention
+
+Defines how long data is stored and when it should be deleted.
+
+Reduces unnecessary risk exposure and storage costs.
+
+Malware Techniques
+
+Memory Injection
+
+Allows attackers to execute malicious code in memory.
+
+Often bypasses traditional file-based detection methods.
+
+Especially dangerous in real-time/critical systems.
+
+Threat Actors
+
+Unskilled Attackers (Script Kiddies)
+
+Typically seek recognition rather than financial gain.
+
+Use publicly available tools to exploit vulnerabilities.
+
+Email Security
+
+Email Traffic Scanning
+
+Detects malicious attachments and links before reaching users.
+
+Helps prevent phishing and malware infections.
+
+Incident Response
+
+Detection Phase
+
+First phase in incident response.
+
+Identifies potential security incidents via monitoring and alerts.
+
+Legacy System Risks
+
+Legacy systems:
+
+Often lack updates and modern protections.
+
+May become single points of failure.
+
+Require compensating controls to maintain security and availability.
+
+Key Concepts Reinforced
+
+Forensic integrity and chain of custody
+
+Network-based threat detection
+
+Ethical security testing controls
+
+Endpoint monitoring and response
+
+Data lifecycle management
+
+Advanced malware execution techniques
+
+Threat actor behavior
+
+Email-based attack prevention
+
+Incident response lifecycle
+
+Risk management for outdated systems
