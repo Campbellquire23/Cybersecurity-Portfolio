@@ -1,0 +1,209 @@
+Day 104 – SY0-701 Security+ Practice (FreeBrainDumps)
+Completed questions 210–220 with comprehensive notes, definitions, and mistake review. Focused on web application attacks, system hardening, mobile security models, secure data destruction, risk calculations, and incident response procedures.
+
+🔑 Topics Covered
+🔐 System & Access Security
+
+Firmware integrity checks
+
+Ensures firmware has not been tampered with.
+
+Helps detect low-level/rootkit compromises.
+
+High-risk access monitoring
+
+Systems analyze behavior patterns to detect anomalies and suspicious activity.
+
+COPE (Corporate-Owned, Personally Enabled)
+
+Company devices allow limited personal use.
+
+Enforces encryption, remote wipe, and access controls.
+
+🌐 Web & Application Security
+
+Directory Traversal
+
+Attackers attempt to access restricted directories/files outside intended paths.
+
+SQL Injection
+
+Malicious input manipulates database queries.
+
+Can lead to unauthorized access, data leakage, or modification.
+
+🛠️ Security Testing & Hardening
+
+Sandbox Testing
+
+Safe environment for analyzing suspicious code.
+
+Limited visibility depending on configuration.
+
+Server Hardening
+
+First step before deployment:
+
+Disable unnecessary services
+
+Apply patches
+
+Configure permissions
+
+Reduce attack surface
+
+💾 Data Protection
+
+Secure Data Wiping
+
+Overwrites data multiple times to prevent recovery.
+
+Critical for decommissioning drives/devices.
+
+📊 Risk Management
+
+ALE (Annualized Loss Expectancy)
+
+Formula:
+
+ALE = SLE × ARO
+
+Used to estimate yearly financial impact of risks.
+
+Risk Acceptance
+
+Chosen when:
+
+System is critical
+
+Mitigation is not feasible
+
+Cost outweighs benefit
+
+🚨 Incident Response
+Day 104 – SY0-701 Security+ Practice (FreeBrainDumps)
+Completed questions 210–220 with comprehensive notes, definitions, and mistake review. Focused on web application attacks, system hardening, mobile security models, secure data destruction, risk calculations, and incident response procedures.
+
+🔑 Topics Covered
+🔐 System & Access Security
+
+Firmware integrity checks
+
+Ensures firmware has not been tampered with.
+
+Helps detect low-level/rootkit compromises.
+
+High-risk access monitoring
+
+Systems analyze behavior patterns to detect anomalies and suspicious activity.
+
+COPE (Corporate-Owned, Personally Enabled)
+
+Company devices allow limited personal use.
+
+Enforces encryption, remote wipe, and access controls.
+
+🌐 Web & Application Security
+
+Directory Traversal
+
+Attackers attempt to access restricted directories/files outside intended paths.
+
+SQL Injection
+
+Malicious input manipulates database queries.
+
+Can lead to unauthorized access, data leakage, or modification.
+
+🛠️ Security Testing & Hardening
+
+Sandbox Testing
+
+Safe environment for analyzing suspicious code.
+
+Limited visibility depending on configuration.
+
+Server Hardening
+
+First step before deployment:
+
+Disable unnecessary services
+
+Apply patches
+
+Configure permissions
+
+Reduce attack surface
+
+💾 Data Protection
+
+Secure Data Wiping
+
+Overwrites data multiple times to prevent recovery.
+
+Critical for decommissioning drives/devices.
+
+📊 Risk Management
+
+ALE (Annualized Loss Expectancy)
+
+Formula:
+
+ALE = SLE × ARO
+
+Used to estimate yearly financial impact of risks.
+
+Risk Acceptance
+
+Chosen when:
+
+System is critical
+
+Mitigation is not feasible
+
+Cost outweighs benefit
+
+🚨 Incident Response
+
+Breach Handling
+
+After confirming exposure:
+
+Notify appropriate stakeholders
+
+Begin response procedures
+
+Contain and assess damage
+
+🧠 Key Takeaways
+
+Understand common web vulnerabilities and how they are exploited
+
+Prioritize system hardening before deployment
+
+Know when to apply risk acceptance vs mitigation
+
+Be comfortable with ALE calculations
+
+Reinforce incident response steps and communication flow
+Breach Handling
+
+After confirming exposure:
+
+Notify appropriate stakeholders
+
+Begin response procedures
+
+Contain and assess damage
+
+🧠 Key Takeaways
+
+Understand common web vulnerabilities and how they are exploited
+
+Prioritize system hardening before deployment
+
+Know when to apply risk acceptance vs mitigation
+
+Be comfortable with ALE calculations
+
+Reinforce incident response steps and communication flow
