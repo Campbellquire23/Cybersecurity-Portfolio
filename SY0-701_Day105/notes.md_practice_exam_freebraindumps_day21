@@ -1,0 +1,44 @@
+Day 105 – SY0-701 Security+ Practice (FreeBrainDumps)
+Completed questions 230–240 with comprehensive notes, definitions, and concept reinforcement. Focused on port security, network segmentation, encryption, DNS attacks, vulnerability scanning limitations, data wiping, infrastructure as code (IaC), SOPs, and authentication security (MFA).
+
+🔑 Topics Covered
+🌐 Network Security & Access Control
+Port Security
+Restricts unauthorized devices from connecting to network ports.
+Enhances control at the switch level.
+Network Segmentation
+Divides network into smaller segments.
+Reduces attack surface and limits lateral movement.
+🔐 Data Protection & Encryption
+Full Disk Encryption (FDE)
+Protects all data on a device.
+Data is unreadable without proper credentials.
+Data Wiping
+Most effective method to prevent data recovery.
+Overwrites data to ensure complete destruction.
+⚠️ Attacks & Vulnerabilities
+DNS Poisoning
+Alters DNS records to redirect users to malicious sites.
+False Negatives
+When a scan fails to detect an existing vulnerability.
+Leaves systems exposed to exploitation.
+🏗️ Infrastructure & Security Management
+Infrastructure as Code (IaC)
+Automates provisioning and management of infrastructure.
+Improves consistency, scalability, and deployment speed.
+Closing Unnecessary Ports
+Reduces attack surface.
+Prevents exploitation of unused services.
+SOP (Standard Operating Procedures)
+Ensures consistent, secure, and compliant operations.
+Provides step-by-step guidance for tasks like patching.
+🔐 Authentication & Access Control
+Multi-Factor Authentication (MFA)
+Requires multiple verification methods.
+Significantly reduces risk of unauthorized access.
+🧠 Key Takeaways
+Reduce attack surface through segmentation and port management
+Always assume scans can miss vulnerabilities (false negatives)
+Automate infrastructure for consistency and security
+Enforce SOPs to maintain compliance and standardization
+MFA is one of the strongest defenses against credential-based attacks
