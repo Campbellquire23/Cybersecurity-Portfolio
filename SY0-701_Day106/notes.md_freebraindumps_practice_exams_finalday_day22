@@ -1,0 +1,40 @@
+Day 106 – SY0-701 Security+ Practice (FreeBrainDumps)
+Completed questions 240–250 with comprehensive notes, definitions, and mistake review. Focused on disaster recovery metrics, common web vulnerabilities, hacktivism, risk tracking, web application firewalls, and high availability solutions.
+
+🔑 Topics Covered
+🚨 Disaster Recovery & Availability
+RPO (Recovery Point Objective)
+Defines how much data loss is acceptable (time-based).
+RTO (Recovery Time Objective)
+Defines how quickly systems must be restored.
+BTO (Business Time Objective)
+Maximum acceptable downtime before major business impact occurs.
+🌐 Web Application Security
+Cross-Site Scripting (XSS)
+Injects malicious scripts into web pages.
+Executes in victim’s browser → data theft/session hijacking.
+Web Application Firewall (WAF)
+Protects web apps by filtering HTTP traffic.
+Blocks attacks like:
+SQL injection
+XSS
+Data exfiltration attempts
+🎯 Threat Actors
+Hacktivism
+Attacks driven by political/social motives.
+Focus on disruption or messaging rather than profit.
+📊 Risk Management
+Risk Register
+Tracks vulnerabilities, likelihood, impact, and mitigation strategies.
+Helps prioritize security efforts.
+⚙️ High Availability
+Load Balancing
+Distributes traffic across multiple servers.
+Prevents downtime and improves scalability.
+Ensures continued service if one server fails.
+🧠 Key Takeaways
+Understand differences between RPO, RTO, and BTO
+Know how XSS works and its impact on users
+WAF is critical for web-layer protection
+Risk registers help prioritize and manage vulnerabilities
+Load balancing = availability + fault tolerance
