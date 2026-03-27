@@ -1,0 +1,80 @@
+Day 110 Overall – CompTIA Security+ (SY0-701)
+Final Day Before Exam
+
+Today marked the final preparation day before taking the official Security+ exam scheduled for tomorrow morning. Focus was placed on reviewing multiple practice exams, reinforcing weak areas, and consolidating key concepts.
+
+Practice Exam Results:
+
+* Practice Exam 1: 60% (fatigue and difficult question set)
+* Practice Exam 2: 85% (strong performance)
+* Practice Exam 3: 50% (mental fatigue)
+* Practice Exam 4: 65% (partial recovery)
+* Final Quiz: 90% (9/10 correct)
+
+Performance varied throughout the day due to mental fatigue and varying difficulty levels of question sources. However, strong scores in controlled environments indicate readiness for the exam.
+
+Key Concepts Reviewed:
+
+* Authentication & Identity:
+
+  * Kerberos (ticket-based authentication, TGT)
+  * TACACS+ vs RADIUS (authentication separation and encryption differences)
+  * 802.1X / EAP negotiation process
+
+* Security Architecture & Network Security:
+
+  * Zero Trust model (verify every request, no implicit trust)
+  * NAT and proxy use for anonymity and security
+  * Screened subnet (DMZ) for isolating public-facing services
+  * VLANs and segmentation concepts
+
+* Cryptography & Protocols:
+
+  * Diffie-Hellman key exchange
+  * HMAC-SHA, SHA-256 hashing
+  * TLS encryption negotiation
+  * Self-encrypting drives (SED)
+
+* Security Operations:
+
+  * SIEM logging and real-time monitoring
+  * Incident response process and escalation
+  * Fail-closed vs fail-open systems
+  * SCAP framework and CVSS scoring
+
+* Risk & Compliance:
+
+  * SOX, GLBA, and data protection regulations
+  * Data classification levels and sensitivity
+  * Compensating controls when primary controls are not feasible
+
+* Attack Methods:
+
+  * Brute force and hybrid attacks
+  * Social engineering (steganography, insider threats)
+  * Phishing targeting high-profile individuals
+
+Lessons Learned:
+
+* Overexposure to difficult or poorly structured practice questions negatively impacts confidence
+* Timed practice exams provide a more accurate representation of readiness
+* Understanding concepts is more effective than memorizing details
+* Mental fatigue significantly affects performance and accuracy
+
+Final Exam Plan:
+
+* Exam scheduled for Saturday, March 28, 2026
+* Check-in: 10:45 AM
+* Start time: 11:15 AM
+
+Strategy:
+
+* Skip PBQs initially and return after completing multiple choice
+* Eliminate incorrect answers first to narrow choices
+* Avoid overthinking and trust initial instincts
+* Focus on best practice and real-world application
+
+Final Thoughts:
+Preparation is complete. Consistent scores in the passing range demonstrate readiness. The focus now shifts from studying to execution.
+
+Confidence is present, but success will depend on staying calm, managing time effectively, and trusting the preparation completed over the past several weeks.
